@@ -1,51 +1,48 @@
 package converter;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Converter {
 
     static Scanner scanner = new Scanner(System.in);
 
-    public void decimalTo() {
+    public String decimalTo(BigInteger number, int targetBase) {
 
-        System.out.print("Enter number in decimal system: ");
-        int number = Integer.parseInt(scanner.nextLine().trim());
-
-        System.out.print("Enter target base: ");
-        int base = Integer.parseInt(scanner.nextLine().trim());
-
+        BigInteger base = BigInteger.valueOf(targetBase);
         StringBuilder result = new StringBuilder();
         do {
 
-            int remainder = number % base;
+            int remainder = number.mod(base).intValue();
             if (remainder > 9) {
                 result.append((char) ((remainder - 10) + 'a'));
             } else {
                 result.append(remainder);
             }
 
-            number = number / base;
+            number = number.divide(base);
 
-        } while (number >= base);
+        } while (number.compareTo(base) >= 0);
 
-        if (number % base != 0) {
-            result.append(number % base);
+        int remainder = number.mod(base).intValue();
+        if (remainder != 0) {
+            if (remainder > 9) {
+                result.append((char) ((remainder - 10) + 'a'));
+            } else {
+                result.append(remainder);
+            }
         }
         result.reverse();
 
-        System.out.println("Conversion result: " + result.toString());
-
+        return result.toString();
     }
 
-    public void toDecimal() {
+    public BigInteger toDecimal(String number, int fromBase) {
 
-        System.out.print("Enter source number: ");
-        String number = scanner.nextLine().trim().toLowerCase();
+        number = number.trim().toLowerCase();
+        BigInteger base = BigInteger.valueOf(fromBase);
 
-        System.out.print("Enter source base: ");
-        int base = Integer.parseInt(scanner.nextLine().trim());
-
-        int result = 0;
+        BigInteger result = BigInteger.ZERO;
         int power = 0;
         for (int i = number.length() - 1; i >= 0; i--) {
             char symbol = number.charAt(i);
@@ -57,34 +54,49 @@ public class Converter {
                 num = (int) (symbol - 'a' + 10);
             }
 
-            result += num * Math.pow(base,power);
+            BigInteger bi = BigInteger.valueOf(num);
+            for (int j = 1; j <= power; j++) {
+                bi = bi.multiply(base);
+            }
+
+            result = result.add(bi);
             power++;
         }
 
-        System.out.println("Conversion to decimal result: " + result);
-
+        return result;
     }
 
     public void menu() {
 
-        System.out.print("Do you want to convert /from decimal or /to decimal? (To quit type /exit) ");
+        int sourceBase = 0;
+        int targetBase = 0;
+
+        System.out.print("Enter two numbers in format: {source base} {target base} (To quit type /exit) ");
         String command = scanner.nextLine().trim();
 
         while (!command.equals("/exit")) {
 
-            switch (command) {
-                case "/from":
-                    decimalTo();
+            String[] cmd = command.split("\\s");
+            sourceBase = Integer.parseInt(cmd[0]);
+            targetBase = Integer.parseInt(cmd[1]);
+
+            while (true) {
+                System.out.printf("Enter number in base %d to convert to base %d (To go back type /back) ", sourceBase, targetBase);
+                String number = scanner.nextLine().trim();
+
+                if (number.equals("/back")) {
                     break;
-                case "/to":
-                    toDecimal();
-                    break;
-                default:
-                    break;
+                }
+
+                BigInteger value = toDecimal(number, sourceBase);
+                String result = decimalTo(value, targetBase);
+
+                System.out.println("Conversion result: " + result);
+                System.out.println();
             }
 
             System.out.println();
-            System.out.print("Do you want to convert /from decimal or /to decimal? (To quit type /exit) ");
+            System.out.print("Enter two numbers in format: {source base} {target base} (To quit type /exit) ");
             command = scanner.nextLine().trim();
         }
 
