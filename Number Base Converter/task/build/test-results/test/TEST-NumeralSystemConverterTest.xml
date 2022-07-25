@@ -1,426 +1,462 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NumeralSystemConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-24T07:18:13" hostname="DESKTOP-5U6L102" time="3.027">
+<testsuite name="NumeralSystemConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-25T10:02:54" hostname="DESKTOP-5U6L102" time="5.201">
   <properties/>
-  <testcase name="start" classname="NumeralSystemConverterTest" time="3.027"/>
+  <testcase name="start" classname="NumeralSystemConverterTest" time="5.201"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
 ?[1;31m
 Start test 2?[0m
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 2
-Enter number in base 10 to convert to base 2 (To go back type /back) > 963
-Conversion result: 1111000011
+Enter number in base 10 to convert to base 2 (To go back type /back) > 765
+Conversion result: 1011111101
 
 ?[1;31m
 Start test 3?[0m
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 2
-Enter number in base 10 to convert to base 2 (To go back type /back) > 912
-Conversion result: 1110010000
+Enter number in base 10 to convert to base 2 (To go back type /back) > 164
+Conversion result: 10100100
 
 Enter number in base 10 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 8
-Enter number in base 10 to convert to base 8 (To go back type /back) > 752
-Conversion result: 1360
+Enter number in base 10 to convert to base 8 (To go back type /back) > 262
+Conversion result: 406
 
 Enter number in base 10 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
 ?[1;31m
 Start test 4?[0m
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 2
+Enter number in base 2 to convert to base 2 (To go back type /back) > 101111100101101001011110111111111111110001101100
+Conversion result: 101111100101101001011110111111111111110001101100
+
+Enter number in base 2 to convert to base 2 (To go back type /back) > /back
+
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 5
-Enter number in base 2 to convert to base 5 (To go back type /back) > 1011011
-Conversion result: 331
+Enter number in base 2 to convert to base 5 (To go back type /back) > 1010100110101011000001001111110101011001011001011
+Conversion result: 342400413420431200420
 
 Enter number in base 2 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 8
-Enter number in base 2 to convert to base 8 (To go back type /back) > 11100000
-Conversion result: 340
+Enter number in base 2 to convert to base 8 (To go back type /back) > 1000111100111001100011110000101010110101000110
+Conversion result: 1074714360526506
 
 Enter number in base 2 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 11
-Enter number in base 2 to convert to base 11 (To go back type /back) > 100101000
-Conversion result: 24a
+Enter number in base 2 to convert to base 11 (To go back type /back) > 11101001101001010100101110011000110101101101001
+Conversion result: 37a225819a9786
 
 Enter number in base 2 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 14
-Enter number in base 2 to convert to base 14 (To go back type /back) > 1001111111
-Conversion result: 339
+Enter number in base 2 to convert to base 14 (To go back type /back) > 1100111001101111001111000000000100011010010000
+Conversion result: 100261c18c012
 
 Enter number in base 2 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 17
-Enter number in base 2 to convert to base 17 (To go back type /back) > 111010001
-Conversion result: 1a6
+Enter number in base 2 to convert to base 17 (To go back type /back) > 1100110110011100010000011101110001111000011000001
+Conversion result: d34c336a8658
 
 Enter number in base 2 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 20
-Enter number in base 2 to convert to base 20 (To go back type /back) > 1000011111
-Conversion result: 173
+Enter number in base 2 to convert to base 20 (To go back type /back) > 1100000110001001110011111001100111010010000000000
+Conversion result: 21b4g63ab400
 
 Enter number in base 2 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 23
-Enter number in base 2 to convert to base 23 (To go back type /back) > 101011000
-Conversion result: em
+Enter number in base 2 to convert to base 23 (To go back type /back) > 1100100010010011001110100111000111001011000101011
+Conversion result: aek69fk3kbl
 
 Enter number in base 2 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 26
-Enter number in base 2 to convert to base 26 (To go back type /back) > 111111100
-Conversion result: je
+Enter number in base 2 to convert to base 26 (To go back type /back) > 100100111101000010100111100000001000100001011100
+Conversion result: 13o726a5fak
 
 Enter number in base 2 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 29
-Enter number in base 2 to convert to base 29 (To go back type /back) > 110010011
-Conversion result: dq
+Enter number in base 2 to convert to base 29 (To go back type /back) > 1100010011011111101110110010101000011011111000011
+Conversion result: 10och6i79l8
 
 Enter number in base 2 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 32
-Enter number in base 2 to convert to base 32 (To go back type /back) > 111110
-Conversion result: 1u
+Enter number in base 2 to convert to base 32 (To go back type /back) > 10111010100101001000001001111100010001000111011
+Conversion result: 2t990js8hr
 
 Enter number in base 2 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 35
-Enter number in base 2 to convert to base 35 (To go back type /back) > 1001100000
-Conversion result: hd
+Enter number in base 2 to convert to base 35 (To go back type /back) > 1001010111101001000001000011001011101111000000100
+Conversion result: 46dowt5qpy
 
 Enter number in base 2 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 2
-Enter number in base 5 to convert to base 2 (To go back type /back) > 10433
-Conversion result: 1011100111
+Enter number in base 5 to convert to base 2 (To go back type /back) > 233144213321343310243
+Conversion result: 111011010100101110100010100001101000110010110100
 
 Enter number in base 5 to convert to base 2 (To go back type /back) > /back
 
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 5
+Enter number in base 5 to convert to base 5 (To go back type /back) > 201034031220143342440
+Conversion result: 201034031220143342440
+
+Enter number in base 5 to convert to base 5 (To go back type /back) > /back
+
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 8
-Enter number in base 5 to convert to base 8 (To go back type /back) > 1231
-Conversion result: 277
+Enter number in base 5 to convert to base 8 (To go back type /back) > 304343020333223240014
+Conversion result: 10514741156377072
 
 Enter number in base 5 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 11
-Enter number in base 5 to convert to base 11 (To go back type /back) > 4303
-Conversion result: 486
+Enter number in base 5 to convert to base 11 (To go back type /back) > 140042414444020400133
+Conversion result: 4aa12337656574
 
 Enter number in base 5 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 14
-Enter number in base 5 to convert to base 14 (To go back type /back) > 3122
-Conversion result: 216
+Enter number in base 5 to convert to base 14 (To go back type /back) > 434044134410213333420
+Conversion result: 803d3268ac73b
 
 Enter number in base 5 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 17
-Enter number in base 5 to convert to base 17 (To go back type /back) > 3421
-Conversion result: 1ba
+Enter number in base 5 to convert to base 17 (To go back type /back) > 413102110213312440043
+Conversion result: c0d20f48g895
 
 Enter number in base 5 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 20
-Enter number in base 5 to convert to base 20 (To go back type /back) > 4134
-Conversion result: 174
+Enter number in base 5 to convert to base 20 (To go back type /back) > 340023340300100111241
+Conversion result: 1f8ca4gb3ag1
 
 Enter number in base 5 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 23
-Enter number in base 5 to convert to base 23 (To go back type /back) > 12023
-Conversion result: 1fe
+Enter number in base 5 to convert to base 23 (To go back type /back) > 423321041421024220442
+Conversion result: aai16i4h6a7
 
 Enter number in base 5 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 26
-Enter number in base 5 to convert to base 26 (To go back type /back) > 10140
-Conversion result: pk
+Enter number in base 5 to convert to base 26 (To go back type /back) > 214303324240344024243
+Conversion result: 1fn71ebfcpo
 
 Enter number in base 5 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 29
-Enter number in base 5 to convert to base 29 (To go back type /back) > 3403
-Conversion result: ge
+Enter number in base 5 to convert to base 29 (To go back type /back) > 211413340044133421101
+Conversion result: erjd0cnmn6
 
 Enter number in base 5 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 32
-Enter number in base 5 to convert to base 32 (To go back type /back) > 12144
-Conversion result: ss
+Enter number in base 5 to convert to base 32 (To go back type /back) > 131122111243202420024
+Conversion result: 4f901fagim
 
 Enter number in base 5 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 35
-Enter number in base 5 to convert to base 35 (To go back type /back) > 2342
-Conversion result: 9w
+Enter number in base 5 to convert to base 35 (To go back type /back) > 121031010211224224441
+Conversion result: 1q7250jue6
 
 Enter number in base 5 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 2
-Enter number in base 8 to convert to base 2 (To go back type /back) > 1203
-Conversion result: 1010000011
+Enter number in base 8 to convert to base 2 (To go back type /back) > 11723316560511102
+Conversion result: 1001111010011011001110101110000101001001001000010
 
 Enter number in base 8 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 5
-Enter number in base 8 to convert to base 5 (To go back type /back) > 142
-Conversion result: 343
+Enter number in base 8 to convert to base 5 (To go back type /back) > 4427401571727257
+Conversion result: 131431013440214443013
 
 Enter number in base 8 to convert to base 5 (To go back type /back) > /back
 
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 8
+Enter number in base 8 to convert to base 8 (To go back type /back) > 5315606011703601
+Conversion result: 5315606011703601
+
+Enter number in base 8 to convert to base 8 (To go back type /back) > /back
+
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 11
-Enter number in base 8 to convert to base 11 (To go back type /back) > 1325
-Conversion result: 5aa
+Enter number in base 8 to convert to base 11 (To go back type /back) > 10236753324402212
+Conversion result: 85192610991571
 
 Enter number in base 8 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 14
-Enter number in base 8 to convert to base 14 (To go back type /back) > 122
-Conversion result: 5c
+Enter number in base 8 to convert to base 14 (To go back type /back) > 14221324455351114
+Conversion result: 78a2bc6383096
 
 Enter number in base 8 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 17
-Enter number in base 8 to convert to base 17 (To go back type /back) > 1563
-Conversion result: 30g
+Enter number in base 8 to convert to base 17 (To go back type /back) > 5154143242657701
+Conversion result: 55g2ee21115f
 
 Enter number in base 8 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 20
-Enter number in base 8 to convert to base 20 (To go back type /back) > 373
-Conversion result: cb
+Enter number in base 8 to convert to base 20 (To go back type /back) > 12647052516016477
+Conversion result: 1h3jc07bbja7
 
 Enter number in base 8 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 23
-Enter number in base 8 to convert to base 23 (To go back type /back) > 1462
-Conversion result: 1cd
+Enter number in base 8 to convert to base 23 (To go back type /back) > 3505433307046731
+Conversion result: 320cfa0jdb0
 
 Enter number in base 8 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 26
-Enter number in base 8 to convert to base 26 (To go back type /back) > 1333
-Conversion result: 123
+Enter number in base 8 to convert to base 26 (To go back type /back) > 5457774162113732
+Conversion result: 1a6c1o889ai
 
 Enter number in base 8 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 29
-Enter number in base 8 to convert to base 29 (To go back type /back) > 574
-Conversion result: d3
+Enter number in base 8 to convert to base 29 (To go back type /back) > 6212335265001677
+Conversion result: f60hlqqnb2
 
 Enter number in base 8 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 32
-Enter number in base 8 to convert to base 32 (To go back type /back) > 1562
-Conversion result: ri
+Enter number in base 8 to convert to base 32 (To go back type /back) > 5333251760312103
+Conversion result: 5dml7s3523
 
 Enter number in base 8 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 35
-Enter number in base 8 to convert to base 35 (To go back type /back) > 1062
-Conversion result: g2
+Enter number in base 8 to convert to base 35 (To go back type /back) > 10505035677567202
+Conversion result: 3tw1fk8xtq
 
 Enter number in base 8 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 2
-Enter number in base 11 to convert to base 2 (To go back type /back) > 384
-Conversion result: 111000111
+Enter number in base 11 to convert to base 2 (To go back type /back) > 482332a6416713
+Conversion result: 100101010000011001010100011111101011101110101000
 
 Enter number in base 11 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 5
-Enter number in base 11 to convert to base 5 (To go back type /back) > 296
-Conversion result: 2342
+Enter number in base 11 to convert to base 5 (To go back type /back) > 2643665a784633
+Conversion result: 43134442004024332103
 
 Enter number in base 11 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 8
-Enter number in base 11 to convert to base 8 (To go back type /back) > 4a3
-Conversion result: 1125
+Enter number in base 11 to convert to base 8 (To go back type /back) > 830a5aa73434a6
+Conversion result: 10077755135631151
 
 Enter number in base 11 to convert to base 8 (To go back type /back) > /back
 
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 11
+Enter number in base 11 to convert to base 11 (To go back type /back) > 991a4361098a16
+Conversion result: 991a4361098a16
+
+Enter number in base 11 to convert to base 11 (To go back type /back) > /back
+
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 14
-Enter number in base 11 to convert to base 14 (To go back type /back) > 718
-Conversion result: 45c
+Enter number in base 11 to convert to base 14 (To go back type /back) > 100305793416a20
+Conversion result: 69dc0d8a981b7
 
 Enter number in base 11 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 17
-Enter number in base 11 to convert to base 17 (To go back type /back) > 3a3
-Conversion result: 1b0
+Enter number in base 11 to convert to base 17 (To go back type /back) > 1169920a0117506
+Conversion result: cc3e2e277f42
 
 Enter number in base 11 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 20
-Enter number in base 11 to convert to base 20 (To go back type /back) > 742
-Conversion result: 24d
+Enter number in base 11 to convert to base 20 (To go back type /back) > 89a51aa0562009
+Conversion result: 1a08804597bf
 
 Enter number in base 11 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 23
-Enter number in base 11 to convert to base 23 (To go back type /back) > 460
-Conversion result: 10l
+Enter number in base 11 to convert to base 23 (To go back type /back) > 10407255900233
+Conversion result: jiec92bkhd
 
 Enter number in base 11 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 26
-Enter number in base 11 to convert to base 26 (To go back type /back) > 394
-Conversion result: ho
+Enter number in base 11 to convert to base 26 (To go back type /back) > 1181a3752036143
+Conversion result: 330hmgjjc4f
 
 Enter number in base 11 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 29
-Enter number in base 11 to convert to base 29 (To go back type /back) > 264
-Conversion result: am
+Enter number in base 11 to convert to base 29 (To go back type /back) > 47062862100a0a
+Conversion result: b188k4eka6
 
 Enter number in base 11 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 32
-Enter number in base 11 to convert to base 32 (To go back type /back) > 205
-Conversion result: 7n
+Enter number in base 11 to convert to base 32 (To go back type /back) > 5117934504a3a8
+Conversion result: 50991i0sgs
 
 Enter number in base 11 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 35
-Enter number in base 11 to convert to base 35 (To go back type /back) > 63a
-Conversion result: ly
+Enter number in base 11 to convert to base 35 (To go back type /back) > 2a97800602a610
+Conversion result: 1asxqip78l
 
 Enter number in base 11 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 2
-Enter number in base 14 to convert to base 2 (To go back type /back) > 30b
-Conversion result: 1001010111
+Enter number in base 14 to convert to base 2 (To go back type /back) > 783ac926a48b1
+Conversion result: 1100001110110010111110101101000110111111101111011
 
 Enter number in base 14 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 5
-Enter number in base 14 to convert to base 5 (To go back type /back) > 1d2
-Conversion result: 3010
+Enter number in base 14 to convert to base 5 (To go back type /back) > 20812b00586c8
+Conversion result: 110132031121400113344
 
 Enter number in base 14 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 8
-Enter number in base 14 to convert to base 8 (To go back type /back) > 14d
-Conversion result: 411
+Enter number in base 14 to convert to base 8 (To go back type /back) > 54a2d065866d0
+Conversion result: 10463555455614376
 
 Enter number in base 14 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 11
-Enter number in base 14 to convert to base 11 (To go back type /back) > 44d
-Conversion result: 706
+Enter number in base 14 to convert to base 11 (To go back type /back) > 4b5a7c7c4274d
+Conversion result: 79a885073a7188
 
 Enter number in base 14 to convert to base 11 (To go back type /back) > /back
 
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 14
+Enter number in base 14 to convert to base 14 (To go back type /back) > 4c140007d8a5a
+Conversion result: 4c140007d8a5a
+
+Enter number in base 14 to convert to base 14 (To go back type /back) > /back
+
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 17
-Enter number in base 14 to convert to base 17 (To go back type /back) > 4c9
-Conversion result: 359
+Enter number in base 14 to convert to base 17 (To go back type /back) > 72984cb700117
+Conversion result: bf43f63d4e2f
 
 Enter number in base 14 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 20
-Enter number in base 14 to convert to base 20 (To go back type /back) > 274
-Conversion result: 14e
+Enter number in base 14 to convert to base 20 (To go back type /back) > 4604340a21ad5
+Conversion result: 14aaj389i8cb
 
 Enter number in base 14 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 23
-Enter number in base 14 to convert to base 23 (To go back type /back) > 20c
-Conversion result: hd
+Enter number in base 14 to convert to base 23 (To go back type /back) > a9ca568038b6
+Conversion result: 111gbk51059
 
 Enter number in base 14 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 26
-Enter number in base 14 to convert to base 26 (To go back type /back) > 246
-Conversion result: hc
+Enter number in base 14 to convert to base 26 (To go back type /back) > 965d3259960
+Conversion result: d2gmppj12
 
 Enter number in base 14 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 29
-Enter number in base 14 to convert to base 29 (To go back type /back) > 24b
-Conversion result: fo
+Enter number in base 14 to convert to base 29 (To go back type /back) > 466a05c77c910
+Conversion result: hcmjrcqkn4
 
 Enter number in base 14 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 32
-Enter number in base 14 to convert to base 32 (To go back type /back) > 27b
-Conversion result: fl
+Enter number in base 14 to convert to base 32 (To go back type /back) > 3898780c56c4c
+Conversion result: 5qlpdl66ck
 
 Enter number in base 14 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 35
-Enter number in base 14 to convert to base 35 (To go back type /back) > 264
-Conversion result: dp
+Enter number in base 14 to convert to base 35 (To go back type /back) > 5bbc28a8a4987
+Conversion result: 476jx5x04s
 
 Enter number in base 14 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 2
-Enter number in base 17 to convert to base 2 (To go back type /back) > e9
-Conversion result: 11110111
+Enter number in base 17 to convert to base 2 (To go back type /back) > 171gf1607a8a
+Conversion result: 1011000011100001001000001101110110010011010010
 
 Enter number in base 17 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 5
-Enter number in base 17 to convert to base 5 (To go back type /back) > 1g8
-Conversion result: 4234
+Enter number in base 17 to convert to base 5 (To go back type /back) > 3822640f572d
+Conversion result: 111110412111234144011
 
 Enter number in base 17 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 8
-Enter number in base 17 to convert to base 8 (To go back type /back) > fg
-Conversion result: 417
+Enter number in base 17 to convert to base 8 (To go back type /back) > a0b85ffe7a6c
+Conversion result: 11617030165364561
 
 Enter number in base 17 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 11
-Enter number in base 17 to convert to base 11 (To go back type /back) > 24d
-Conversion result: 54a
+Enter number in base 17 to convert to base 11 (To go back type /back) > dec90faf5fbb
+Conversion result: 1284781a7a83223
 
 Enter number in base 17 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 14
-Enter number in base 17 to convert to base 14 (To go back type /back) > 2e
-Conversion result: 36
+Enter number in base 17 to convert to base 14 (To go back type /back) > 3919512d9467
+Conversion result: 21cb4dc44d469
 
 Enter number in base 17 to convert to base 14 (To go back type /back) > /back
 
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 17
+Enter number in base 17 to convert to base 17 (To go back type /back) > 8634252ccd77
+Conversion result: 8634252ccd77
+
+Enter number in base 17 to convert to base 17 (To go back type /back) > /back
+
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 20
-Enter number in base 17 to convert to base 20 (To go back type /back) > 267
-Conversion result: 1e7
+Enter number in base 17 to convert to base 20 (To go back type /back) > 326536a02e1
+Conversion result: c74chj2ab8
 
 Enter number in base 17 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 23
-Enter number in base 17 to convert to base 23 (To go back type /back) > 21e
-Conversion result: 13b
+Enter number in base 17 to convert to base 23 (To go back type /back) > 4a5792211187
+Conversion result: 3if574ka4j0
 
 Enter number in base 17 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 26
-Enter number in base 17 to convert to base 26 (To go back type /back) > 64
-Conversion result: 42
+Enter number in base 17 to convert to base 26 (To go back type /back) > 6ea66361cc49
+Conversion result: 1h7j83lepi1
 
 Enter number in base 17 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 29
-Enter number in base 17 to convert to base 29 (To go back type /back) > 228
-Conversion result: lb
+Enter number in base 17 to convert to base 29 (To go back type /back) > 8554766c0c5f
+Conversion result: jidodd5a5p
 
 Enter number in base 17 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 32
-Enter number in base 17 to convert to base 32 (To go back type /back) > 2gb
-Conversion result: qt
+Enter number in base 17 to convert to base 32 (To go back type /back) > 96b427e3047a
+Conversion result: 94nqogsuft
 
 Enter number in base 17 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 35
-Enter number in base 17 to convert to base 35 (To go back type /back) > 1ff
-Conversion result: fy
+Enter number in base 17 to convert to base 35 (To go back type /back) > 17f4abc3551e
+Conversion result: ma5la3eo7
 
 Enter number in base 17 to convert to base 35 (To go back type /back) > /back
 
@@ -428,434 +464,434 @@ Enter two numbers in format: {source base} {target base} (To quit type /exit) > 
 ?[1;31m
 Start test 5?[0m
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 2
-Enter number in base 19 to convert to base 2 (To go back type /back) > 208
-Conversion result: 1011011010
+Enter number in base 19 to convert to base 2 (To go back type /back) > 2da5b3ad1h16
+Conversion result: 1000111110110011111101011110000011001010111111010
 
 Enter number in base 19 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 5
-Enter number in base 19 to convert to base 5 (To go back type /back) > 29b
-Conversion result: 12104
+Enter number in base 19 to convert to base 5 (To go back type /back) > 3h6ddccfide2
+Conversion result: 434222420212224404321
 
 Enter number in base 19 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 8
-Enter number in base 19 to convert to base 8 (To go back type /back) > 1fa
-Conversion result: 1220
+Enter number in base 19 to convert to base 8 (To go back type /back) > 30dd4f41d9a5
+Conversion result: 12035623705534550
 
 Enter number in base 19 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 11
-Enter number in base 19 to convert to base 11 (To go back type /back) > 2h
-Conversion result: 50
+Enter number in base 19 to convert to base 11 (To go back type /back) > 5cgf09eae89
+Conversion result: 1010200750a71a
 
 Enter number in base 19 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 14
-Enter number in base 19 to convert to base 14 (To go back type /back) > 29i
-Conversion result: 491
+Enter number in base 19 to convert to base 14 (To go back type /back) > 3fiea084h6c
+Conversion result: 5b5d0b6d694d
 
 Enter number in base 19 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 17
-Enter number in base 19 to convert to base 17 (To go back type /back) > 10f
-Conversion result: 152
+Enter number in base 19 to convert to base 17 (To go back type /back) > 24beg3ec3dgd
+Conversion result: 7aa8426720c9
 
 Enter number in base 19 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 20
-Enter number in base 19 to convert to base 20 (To go back type /back) > 221
-Conversion result: 1i1
+Enter number in base 19 to convert to base 20 (To go back type /back) > 77fg7eb6cbc
+Conversion result: 48f490fiaea
 
 Enter number in base 19 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 23
-Enter number in base 19 to convert to base 23 (To go back type /back) > 116
-Conversion result: gi
+Enter number in base 19 to convert to base 23 (To go back type /back) > 2abb3i5bf90d
+Conversion result: 74agmba16c1
 
 Enter number in base 19 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 26
-Enter number in base 19 to convert to base 26 (To go back type /back) > 142
-Conversion result: gn
+Enter number in base 19 to convert to base 26 (To go back type /back) > 417e9ebif59e
+Conversion result: 39ahij2926b
 
 Enter number in base 19 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 29
-Enter number in base 19 to convert to base 29 (To go back type /back) > 1g1
-Conversion result: ms
+Enter number in base 19 to convert to base 29 (To go back type /back) > 1eh4ig8e8g97
+Conversion result: e9h083ac94
 
 Enter number in base 19 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 32
-Enter number in base 19 to convert to base 32 (To go back type /back) > 2e
-Conversion result: 1k
+Enter number in base 19 to convert to base 32 (To go back type /back) > 18aa0dcd7cac
+Conversion result: 4pkm1e7nh4
 
 Enter number in base 19 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 35
-Enter number in base 19 to convert to base 35 (To go back type /back) > 2d7
-Conversion result: rv
+Enter number in base 19 to convert to base 35 (To go back type /back) > 19f1g04b1f5g
+Conversion result: 28dvy2sv90
 
 Enter number in base 19 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 2
-Enter number in base 22 to convert to base 2 (To go back type /back) > g4
-Conversion result: 101100100
+Enter number in base 22 to convert to base 2 (To go back type /back) > a2h88192dd1
+Conversion result: 111101001001111111100001110011101001111011010011
 
 Enter number in base 22 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 5
-Enter number in base 22 to convert to base 5 (To go back type /back) > 1e
-Conversion result: 121
+Enter number in base 22 to convert to base 5 (To go back type /back) > bfegbhlkb35
+Conversion result: 311233144112404403200
 
 Enter number in base 22 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 8
-Enter number in base 22 to convert to base 8 (To go back type /back) > jl
-Conversion result: 667
+Enter number in base 22 to convert to base 8 (To go back type /back) > 15982078174
+Conversion result: 741643160570062
 
 Enter number in base 22 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 11
-Enter number in base 22 to convert to base 11 (To go back type /back) > 18i
-Conversion result: 567
+Enter number in base 22 to convert to base 11 (To go back type /back) > 56ihb29d6ei
+Conversion result: 40a504770a7477
 
 Enter number in base 22 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 14
-Enter number in base 22 to convert to base 14 (To go back type /back) > 1aj
-Conversion result: 399
+Enter number in base 22 to convert to base 14 (To go back type /back) > 41jhd1b1eal
+Conversion result: 1cb309800d917
 
 Enter number in base 22 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 17
-Enter number in base 22 to convert to base 17 (To go back type /back) > ie
-Conversion result: 172
+Enter number in base 22 to convert to base 17 (To go back type /back) > cg1ii0cd209
+Conversion result: 9ec6333b8749
 
 Enter number in base 22 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 20
-Enter number in base 22 to convert to base 20 (To go back type /back) > 1di
-Conversion result: 1j8
+Enter number in base 22 to convert to base 20 (To go back type /back) > hl528400h73
+Conversion result: 26biee69gdc1
 
 Enter number in base 22 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 23
-Enter number in base 22 to convert to base 23 (To go back type /back) > 17a
-Conversion result: 154
+Enter number in base 22 to convert to base 23 (To go back type /back) > 420g72fkc6h
+Conversion result: 2e7mi63efh9
 
 Enter number in base 22 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 26
-Enter number in base 22 to convert to base 26 (To go back type /back) > 7h
-Conversion result: 6f
+Enter number in base 22 to convert to base 26 (To go back type /back) > 6e75e23240l
+Conversion result: 16dopciji8l
 
 Enter number in base 22 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 29
-Enter number in base 22 to convert to base 29 (To go back type /back) > c3
-Conversion result: 96
+Enter number in base 22 to convert to base 29 (To go back type /back) > 791j473fjei
+Conversion result: dggopkq972
 
 Enter number in base 22 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 32
-Enter number in base 22 to convert to base 32 (To go back type /back) > 1bi
-Conversion result: n8
+Enter number in base 22 to convert to base 32 (To go back type /back) > da1heabkaa9
+Conversion result: a535qa6o8t
 
 Enter number in base 22 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 35
-Enter number in base 22 to convert to base 35 (To go back type /back) > 1fk
-Conversion result: nt
+Enter number in base 22 to convert to base 35 (To go back type /back) > ded09bd6909
+Conversion result: 4l5bq7cpvr
 
 Enter number in base 22 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 2
-Enter number in base 25 to convert to base 2 (To go back type /back) > en
-Conversion result: 101110101
+Enter number in base 25 to convert to base 2 (To go back type /back) > 495egd1kgkf
+Conversion result: 1011110101111000111101010111110000000101001000101
 
 Enter number in base 25 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 5
-Enter number in base 25 to convert to base 5 (To go back type /back) > e5
-Conversion result: 2410
+Enter number in base 25 to convert to base 5 (To go back type /back) > 2eb611fakgk
+Conversion result: 224211101013020403140
 
 Enter number in base 25 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 8
-Enter number in base 25 to convert to base 8 (To go back type /back) > 189
-Conversion result: 1502
+Enter number in base 25 to convert to base 8 (To go back type /back) > 4m243kchli6
+Conversion result: 15171127105236051
 
 Enter number in base 25 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 11
-Enter number in base 25 to convert to base 11 (To go back type /back) > 10j
-Conversion result: 536
+Enter number in base 25 to convert to base 11 (To go back type /back) > 16325d26l5
+Conversion result: 1571088410753
 
 Enter number in base 25 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 14
-Enter number in base 25 to convert to base 14 (To go back type /back) > 12e
-Conversion result: 373
+Enter number in base 25 to convert to base 14 (To go back type /back) > 27411ol77g6
+Conversion result: 3bbbc9021d0b6
 
 Enter number in base 25 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 17
-Enter number in base 25 to convert to base 17 (To go back type /back) > n
-Conversion result: 16
+Enter number in base 25 to convert to base 17 (To go back type /back) > 357nc6mjeab
+Conversion result: 8fgac47ge006
 
 Enter number in base 25 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 20
-Enter number in base 25 to convert to base 20 (To go back type /back) > 46
-Conversion result: 56
+Enter number in base 25 to convert to base 20 (To go back type /back) > 4bhec6e11o1
+Conversion result: 21c518d016a1
 
 Enter number in base 25 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 23
-Enter number in base 25 to convert to base 23 (To go back type /back) > 59
-Conversion result: 5j
+Enter number in base 25 to convert to base 23 (To go back type /back) > 307bl7n7hdc
+Conversion result: 6lam9kah98l
 
 Enter number in base 25 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 26
-Enter number in base 25 to convert to base 26 (To go back type /back) > 148
-Conversion result: 125
+Enter number in base 25 to convert to base 26 (To go back type /back) > 102df80137g
+Conversion result: hge1c22pj8
 
 Enter number in base 25 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 29
-Enter number in base 25 to convert to base 29 (To go back type /back) > c0
-Conversion result: aa
+Enter number in base 25 to convert to base 29 (To go back type /back) > k8496aig45
+Conversion result: 5a057fa09b
 
 Enter number in base 25 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 32
-Enter number in base 25 to convert to base 32 (To go back type /back) > o6
-Conversion result: iu
+Enter number in base 25 to convert to base 32 (To go back type /back) > lcl5a3fj87
+Conversion result: 2akgsfg2d1
 
 Enter number in base 25 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 35
-Enter number in base 25 to convert to base 35 (To go back type /back) > 3d
-Conversion result: 2i
+Enter number in base 25 to convert to base 35 (To go back type /back) > bf71kdha84
+Conversion result: jnfcbg3f4
 
 Enter number in base 25 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 2
-Enter number in base 28 to convert to base 2 (To go back type /back) > 78
-Conversion result: 11001100
+Enter number in base 28 to convert to base 2 (To go back type /back) > 9d1319d9md
+Conversion result: 10110110001000111101001100100010110110111000101
 
 Enter number in base 28 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 5
-Enter number in base 28 to convert to base 5 (To go back type /back) > 9l
-Conversion result: 2043
+Enter number in base 28 to convert to base 5 (To go back type /back) > 1b75nn98nmb
+Conversion result: 413413000243014333314
 
 Enter number in base 28 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 8
-Enter number in base 28 to convert to base 8 (To go back type /back) > 15n
-Conversion result: 1663
+Enter number in base 28 to convert to base 8 (To go back type /back) > 11mbrp2gcdk
+Conversion result: 10753362052670100
 
 Enter number in base 28 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 11
-Enter number in base 28 to convert to base 11 (To go back type /back) > 17c
-Conversion result: 822
+Enter number in base 28 to convert to base 11 (To go back type /back) > 12la87rrqkr
+Conversion result: 947666410368a1
 
 Enter number in base 28 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 14
-Enter number in base 28 to convert to base 14 (To go back type /back) > r1
-Conversion result: 3c1
+Enter number in base 28 to convert to base 14 (To go back type /back) > e0mhd92bp9
+Conversion result: 2890abc655589
 
 Enter number in base 28 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 17
-Enter number in base 28 to convert to base 17 (To go back type /back) > nq
-Conversion result: 257
+Enter number in base 28 to convert to base 17 (To go back type /back) > 1gqa306346q
+Conversion result: dedffc1d4716
 
 Enter number in base 28 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 20
-Enter number in base 28 to convert to base 20 (To go back type /back) > e1
-Conversion result: jd
+Enter number in base 28 to convert to base 20 (To go back type /back) > 2jiqiqra79
+Conversion result: 2fggc9831h9
 
 Enter number in base 28 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 23
-Enter number in base 28 to convert to base 23 (To go back type /back) > 11g
-Conversion result: 1d0
+Enter number in base 28 to convert to base 23 (To go back type /back) > 4j24p95c38
+Conversion result: 14b8b05165c
 
 Enter number in base 28 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 26
-Enter number in base 28 to convert to base 26 (To go back type /back) > 12j
-Conversion result: 171
+Enter number in base 28 to convert to base 26 (To go back type /back) > 84o6fm2i8r
+Conversion result: fo1b15b7gn
 
 Enter number in base 28 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 29
-Enter number in base 28 to convert to base 29 (To go back type /back) > f2
-Conversion result: eg
+Enter number in base 28 to convert to base 29 (To go back type /back) > hnhckf51qk
+Conversion result: d09hm4lo7f
 
 Enter number in base 28 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 32
-Enter number in base 28 to convert to base 32 (To go back type /back) > mm
-Conversion result: ju
+Enter number in base 28 to convert to base 32 (To go back type /back) > 698e6i0p8j
+Conversion result: 1sthb4t9s3
 
 Enter number in base 28 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 35
-Enter number in base 28 to convert to base 35 (To go back type /back) > 1m
-Conversion result: 1f
+Enter number in base 28 to convert to base 35 (To go back type /back) > 1j6a9qbk0ra
+Conversion result: 6btym3j1q3
 
 Enter number in base 28 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 2
-Enter number in base 31 to convert to base 2 (To go back type /back) > bu
-Conversion result: 101110011
+Enter number in base 31 to convert to base 2 (To go back type /back) > 5ps4pq8u87
+Conversion result: 100011000101010010011100011100111000000101010010
 
 Enter number in base 31 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 5
-Enter number in base 31 to convert to base 5 (To go back type /back) > mm
-Conversion result: 10304
+Enter number in base 31 to convert to base 5 (To go back type /back) > ajj8fa4prs
+Conversion result: 243322024132014112200
 
 Enter number in base 31 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 8
-Enter number in base 31 to convert to base 8 (To go back type /back) > nu
-Conversion result: 1347
+Enter number in base 31 to convert to base 8 (To go back type /back) > bm9k04roge
+Conversion result: 10635100615315565
 
 Enter number in base 31 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 11
-Enter number in base 31 to convert to base 11 (To go back type /back) > uh
-Conversion result: 791
+Enter number in base 31 to convert to base 11 (To go back type /back) > f3cjdggdbf
+Conversion result: 106325197821035
 
 Enter number in base 31 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 14
-Enter number in base 31 to convert to base 14 (To go back type /back) > o8
-Conversion result: 3ba
+Enter number in base 31 to convert to base 14 (To go back type /back) > 6f01bcq02t
+Conversion result: 3049522531804
 
 Enter number in base 31 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 17
-Enter number in base 31 to convert to base 17 (To go back type /back) > nt
-Conversion result: 29b
+Enter number in base 31 to convert to base 17 (To go back type /back) > imglrack0s
+Conversion result: e7a4a1633f3g
 
 Enter number in base 31 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 20
-Enter number in base 31 to convert to base 20 (To go back type /back) > dp
-Conversion result: 118
+Enter number in base 31 to convert to base 20 (To go back type /back) > 1jm1spjb77
+Conversion result: 449a56iai2a
 
 Enter number in base 31 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 23
-Enter number in base 31 to convert to base 23 (To go back type /back) > hj
-Conversion result: 10h
+Enter number in base 31 to convert to base 23 (To go back type /back) > irafj0do3e
+Conversion result: c13m7c0b2kb
 
 Enter number in base 31 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 26
-Enter number in base 31 to convert to base 26 (To go back type /back) > 5m
-Conversion result: 6l
+Enter number in base 31 to convert to base 26 (To go back type /back) > 97bf6q5qld
+Conversion result: 1ipfbmjamp1
 
 Enter number in base 31 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 29
-Enter number in base 31 to convert to base 29 (To go back type /back) > h4
-Conversion result: i9
+Enter number in base 31 to convert to base 29 (To go back type /back) > 49jdlobqii
+Conversion result: 7ons3da3rf
 
 Enter number in base 31 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 32
-Enter number in base 31 to convert to base 32 (To go back type /back) > 89
-Conversion result: 81
+Enter number in base 31 to convert to base 32 (To go back type /back) > 15aloe8379
+Conversion result: s65kgn022
 
 Enter number in base 31 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 35
-Enter number in base 31 to convert to base 35 (To go back type /back) > 2u
-Conversion result: 2m
+Enter number in base 31 to convert to base 35 (To go back type /back) > fihm40gbj
+Conversion result: 5vrexddth
 
 Enter number in base 31 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 2
-Enter number in base 34 to convert to base 2 (To go back type /back) > gq
-Conversion result: 1000111010
+Enter number in base 34 to convert to base 2 (To go back type /back) > 3wqob52jif
+Conversion result: 110110101110101000111100100000000011011111111111
 
 Enter number in base 34 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 5
-Enter number in base 34 to convert to base 5 (To go back type /back) > lf
-Conversion result: 10404
+Enter number in base 34 to convert to base 5 (To go back type /back) > 3h49ojngho
+Conversion result: 210340420414022232334
 
 Enter number in base 34 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 8
-Enter number in base 34 to convert to base 8 (To go back type /back) > s3
-Conversion result: 1673
+Enter number in base 34 to convert to base 8 (To go back type /back) > 6uwk955nuj
+Conversion result: 13731634756555003
 
 Enter number in base 34 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 11
-Enter number in base 34 to convert to base 11 (To go back type /back) > 1l
-Conversion result: 50
+Enter number in base 34 to convert to base 11 (To go back type /back) > 3uurk2ebk
+Conversion result: 225154291a713
 
 Enter number in base 34 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 14
-Enter number in base 34 to convert to base 14 (To go back type /back) > jh
-Conversion result: 355
+Enter number in base 34 to convert to base 14 (To go back type /back) > 1m7luwbvb7
+Conversion result: 1ab1963ab605b
 
 Enter number in base 34 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 17
-Enter number in base 34 to convert to base 17 (To go back type /back) > j8
-Conversion result: 248
+Enter number in base 34 to convert to base 17 (To go back type /back) > 1433tln4vt
+Conversion result: 1gca79d6f2cc
 
 Enter number in base 34 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 20
-Enter number in base 34 to convert to base 20 (To go back type /back) > mx
-Conversion result: 1j1
+Enter number in base 34 to convert to base 20 (To go back type /back) > ikc66ihva
+Conversion result: 34h822bhgh8
 
 Enter number in base 34 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 23
-Enter number in base 34 to convert to base 23 (To go back type /back) > 7a
-Conversion result: ai
+Enter number in base 34 to convert to base 23 (To go back type /back) > 6dog6glmbc
+Conversion result: 98jjg916h64
 
 Enter number in base 34 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 26
-Enter number in base 34 to convert to base 26 (To go back type /back) > 1w
-Conversion result: 2e
+Enter number in base 34 to convert to base 26 (To go back type /back) > 7in1qg4s7n
+Conversion result: 36apldh0gnf
 
 Enter number in base 34 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 29
-Enter number in base 34 to convert to base 29 (To go back type /back) > n4
-Conversion result: r3
+Enter number in base 34 to convert to base 29 (To go back type /back) > 38djx7a3u6
+Conversion result: dh33i4r1ii
 
 Enter number in base 34 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 32
-Enter number in base 34 to convert to base 32 (To go back type /back) > ss
-Conversion result: uk
+Enter number in base 34 to convert to base 32 (To go back type /back) > 25jcmr4og3
+Conversion result: 3nflj60nkj
 
 Enter number in base 34 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 35
-Enter number in base 34 to convert to base 35 (To go back type /back) > 2l
-Conversion result: 2j
+Enter number in base 34 to convert to base 35 (To go back type /back) > 4xhlvl0kkf
+Conversion result: 3tf56up8r3
 
 Enter number in base 34 to convert to base 35 (To go back type /back) > /back
 
@@ -863,398 +899,398 @@ Enter two numbers in format: {source base} {target base} (To quit type /exit) > 
 ?[1;31m
 Start test 6?[0m
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 5
-Enter number in base 2 to convert to base 5 (To go back type /back) > 100010011111101010100001110110110111000000001011
-Conversion result: 124341102124341422110
+Enter number in base 2 to convert to base 5 (To go back type /back) > 1100100101.00000
+Conversion result: 11210.00000
 
 Enter number in base 2 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 8
-Enter number in base 2 to convert to base 8 (To go back type /back) > 1100100110110111011101101001100000010100011110111
-Conversion result: 14466735514024367
+Enter number in base 2 to convert to base 8 (To go back type /back) > 110110011.11000
+Conversion result: 663.60000
 
 Enter number in base 2 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 11
-Enter number in base 2 to convert to base 11 (To go back type /back) > 101100011011101010001111110010001110001001000111
-Conversion result: 572a0a69592765
+Enter number in base 2 to convert to base 11 (To go back type /back) > 110110011.00000
+Conversion result: 366.00000
 
 Enter number in base 2 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 14
-Enter number in base 2 to convert to base 14 (To go back type /back) > 10100000111110000010101000001101111101010001000
-Conversion result: 17bd1a8a0b50c
+Enter number in base 2 to convert to base 14 (To go back type /back) > 111100101.01000
+Conversion result: 269.37000
 
 Enter number in base 2 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 17
-Enter number in base 2 to convert to base 17 (To go back type /back) > 1010011001000111011000011111001101100110111100010
-Conversion result: ab666c21e374
+Enter number in base 2 to convert to base 17 (To go back type /back) > 1010100001.11000
+Conversion result: 25a.ccccc
 
 Enter number in base 2 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 20
-Enter number in base 2 to convert to base 20 (To go back type /back) > 100001111010111110010011011111101011011101110010
-Conversion result: eb7d5127eaa
+Enter number in base 2 to convert to base 20 (To go back type /back) > 10000100.01000
+Conversion result: 6c.50000
 
 Enter number in base 2 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 23
-Enter number in base 2 to convert to base 23 (To go back type /back) > 10001101100001111001101110101101000010000110000
-Conversion result: 1k4cl1fmj50
+Enter number in base 2 to convert to base 23 (To go back type /back) > 1101110111.10000
+Conversion result: 1fd.bbbbb
 
 Enter number in base 2 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 26
-Enter number in base 2 to convert to base 26 (To go back type /back) > 100010011101110001010000100011000110000111011100
-Conversion result: 11nm9jknl96
+Enter number in base 2 to convert to base 26 (To go back type /back) > 1001110110.10000
+Conversion result: o6.d0000
 
 Enter number in base 2 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 29
-Enter number in base 2 to convert to base 29 (To go back type /back) > 11110000101001000100111101000110010001100001100
-Conversion result: 93d89495o0
+Enter number in base 2 to convert to base 29 (To go back type /back) > 1011111100.01000
+Conversion result: qa.77777
 
 Enter number in base 2 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 32
-Enter number in base 2 to convert to base 32 (To go back type /back) > 1100111101001000110001000001101111011010111101101
-Conversion result: cui643fdfd
+Enter number in base 2 to convert to base 32 (To go back type /back) > 1110101101.00000
+Conversion result: td.00000
 
 Enter number in base 2 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 35
-Enter number in base 2 to convert to base 35 (To go back type /back) > 1010101000010000101101110001111011000010111101001
-Conversion result: 4q2kesj1la
+Enter number in base 2 to convert to base 35 (To go back type /back) > 101000.00000
+Conversion result: 15.00000
 
 Enter number in base 2 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 2
-Enter number in base 5 to convert to base 2 (To go back type /back) > 1002333010320434041211
-Conversion result: 1101110110011001111001001100011111100101010100110
+Enter number in base 5 to convert to base 2 (To go back type /back) > 11300.41303
+Conversion result: 1100111001.11011
 
 Enter number in base 5 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 8
-Enter number in base 5 to convert to base 8 (To go back type /back) > 403434013231312142132
-Conversion result: 13212415037030553
+Enter number in base 5 to convert to base 8 (To go back type /back) > 3423.31423
+Conversion result: 750.53214
 
 Enter number in base 5 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 11
-Enter number in base 5 to convert to base 11 (To go back type /back) > 213401332432342421141
-Conversion result: 6553a495784758
+Enter number in base 5 to convert to base 11 (To go back type /back) > 10434.22333
+Conversion result: 617.56754
 
 Enter number in base 5 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 14
-Enter number in base 5 to convert to base 14 (To go back type /back) > 1002101422240003214444
-Conversion result: 87ba07b5065c1
+Enter number in base 5 to convert to base 14 (To go back type /back) > 11301.04311
+Conversion result: 430.28624
 
 Enter number in base 5 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 17
-Enter number in base 5 to convert to base 17 (To go back type /back) > 402332420143434322230
-Conversion result: b7701e692873
+Enter number in base 5 to convert to base 17 (To go back type /back) > 1201.23014
+Conversion result: a6.8f1f7
 
 Enter number in base 5 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 20
-Enter number in base 5 to convert to base 20 (To go back type /back) > 1001120204222333334430
-Conversion result: 270he2906j0f
+Enter number in base 5 to convert to base 20 (To go back type /back) > 12112.00414
+Conversion result: 257.0dj0g
 
 Enter number in base 5 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 23
-Enter number in base 5 to convert to base 23 (To go back type /back) > 110322100044203433143
-Conversion result: 2j07md4bk6d
+Enter number in base 5 to convert to base 23 (To go back type /back) > 220.21401
+Conversion result: 2e.ajjgb
 
 Enter number in base 5 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 26
-Enter number in base 5 to convert to base 26 (To go back type /back) > 144411011322031123324
-Conversion result: 190fbdclo35
+Enter number in base 5 to convert to base 26 (To go back type /back) > 104.31242
+Conversion result: 13.h65f9
 
 Enter number in base 5 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 29
-Enter number in base 5 to convert to base 29 (To go back type /back) > 30110332221240401434
-Conversion result: 407ff68mq1
+Enter number in base 5 to convert to base 29 (To go back type /back) > 12303.11003
+Conversion result: 13p.6simc
 
 Enter number in base 5 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 32
-Enter number in base 5 to convert to base 32 (To go back type /back) > 111400434000103024033
-Conversion result: 3ebbb9aiv6
+Enter number in base 5 to convert to base 32 (To go back type /back) > 3030.24232
+Conversion result: c6.ijck0
 
 Enter number in base 5 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 35
-Enter number in base 5 to convert to base 35 (To go back type /back) > 4203031142013001441
-Conversion result: 7hco28ue6
+Enter number in base 5 to convert to base 35 (To go back type /back) > 11322.32304
+Conversion result: nw.onxus
 
 Enter number in base 5 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 2
-Enter number in base 8 to convert to base 2 (To go back type /back) > 3351502002062221
-Conversion result: 11011101001101000010000000010000110010010010001
+Enter number in base 8 to convert to base 2 (To go back type /back) > 27.63114121
+Conversion result: 10111.11001
 
 Enter number in base 8 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 5
-Enter number in base 8 to convert to base 5 (To go back type /back) > 2313477036533270
-Conversion result: 42024140100042434342
+Enter number in base 8 to convert to base 5 (To go back type /back) > 420.50740060
+Conversion result: 2042.30443
 
 Enter number in base 8 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 11
-Enter number in base 8 to convert to base 11 (To go back type /back) > 15316214306614100
-Conversion result: 127291575175503
+Enter number in base 8 to convert to base 11 (To go back type /back) > 1120.50200770
+Conversion result: 499.6a113
 
 Enter number in base 8 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 14
-Enter number in base 8 to convert to base 14 (To go back type /back) > 6722573351417765
-Conversion result: 4409dd311b261
+Enter number in base 8 to convert to base 14 (To go back type /back) > 1602.76053317
+Conversion result: 482.d81c2
 
 Enter number in base 8 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 17
-Enter number in base 8 to convert to base 17 (To go back type /back) > 2416716173633527
-Conversion result: 2a265993ce2d
+Enter number in base 8 to convert to base 17 (To go back type /back) > 1346.52450757
+Conversion result: 29b.b54b6
 
 Enter number in base 8 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 20
-Enter number in base 8 to convert to base 20 (To go back type /back) > 13276400370064534
-Conversion result: 1j19d2febf24
+Enter number in base 8 to convert to base 20 (To go back type /back) > 1101.36070274
+Conversion result: 18h.983f4
 
 Enter number in base 8 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 23
-Enter number in base 8 to convert to base 23 (To go back type /back) > 2151565517156075
-Conversion result: 1k286jh3a58
+Enter number in base 8 to convert to base 23 (To go back type /back) > 566.54442061
+Conversion result: g6.g08b6
 
 Enter number in base 8 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 26
-Enter number in base 8 to convert to base 26 (To go back type /back) > 4223252543136421
-Conversion result: 11kb24ca9eh
+Enter number in base 8 to convert to base 26 (To go back type /back) > 1136.61456542
+Conversion result: n8.k3kob
 
 Enter number in base 8 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 29
-Enter number in base 8 to convert to base 29 (To go back type /back) > 13747561072671447
-Conversion result: ssjfhk82qs
+Enter number in base 8 to convert to base 29 (To go back type /back) > 1734.13670006
+Conversion result: 152.5ao84
 
 Enter number in base 8 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 32
-Enter number in base 8 to convert to base 32 (To go back type /back) > 4572215464254036
-Conversion result: 4nkhmd2m0u
+Enter number in base 8 to convert to base 32 (To go back type /back) > 354.37065577
+Conversion result: 7c.fhlst
 
 Enter number in base 8 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 35
-Enter number in base 8 to convert to base 35 (To go back type /back) > 10503137100313465
-Conversion result: 3tu1fil5ef
+Enter number in base 8 to convert to base 35 (To go back type /back) > 1416.07427334
+Conversion result: mc.44exo
 
 Enter number in base 8 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 2
-Enter number in base 11 to convert to base 2 (To go back type /back) > 1347765023a4505
-Conversion result: 1110001001111110011110010001100011000111101010100
+Enter number in base 11 to convert to base 2 (To go back type /back) > 636.5521981931a
+Conversion result: 1011111101.01111
 
 Enter number in base 11 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 5
-Enter number in base 11 to convert to base 5 (To go back type /back) > 36a32123208070
-Conversion result: 112411440240300020042
+Enter number in base 11 to convert to base 5 (To go back type /back) > 255.5511602781a
+Conversion result: 2202.22202
 
 Enter number in base 11 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 8
-Enter number in base 11 to convert to base 8 (To go back type /back) > 100694256248679
-Conversion result: 12662424535051415
+Enter number in base 11 to convert to base 8 (To go back type /back) > 486.729a5179278
+Conversion result: 1102.52207
 
 Enter number in base 11 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 14
-Enter number in base 11 to convert to base 14 (To go back type /back) > 315523576061a3
-Conversion result: 1ca42d99951d1
+Enter number in base 11 to convert to base 14 (To go back type /back) > 136.8a823541508
+Conversion result: b6.b5d4c
 
 Enter number in base 11 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 17
-Enter number in base 11 to convert to base 17 (To go back type /back) > 33120102888287
-Conversion result: 3539g26fcd6b
+Enter number in base 11 to convert to base 17 (To go back type /back) > 138.82370630691
+Conversion result: 99.cbccd
 
 Enter number in base 11 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 20
-Enter number in base 11 to convert to base 20 (To go back type /back) > 46708a84285037
-Conversion result: fa8bdi9b5a2
+Enter number in base 11 to convert to base 20 (To go back type /back) > 57.70260164655
+Conversion result: 32.cf64g
 
 Enter number in base 11 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 23
-Enter number in base 11 to convert to base 23 (To go back type /back) > 1308120a4329767
-Conversion result: bge774d3c8m
+Enter number in base 11 to convert to base 23 (To go back type /back) > a1.54332768359
+Conversion result: 4j.b65ia
 
 Enter number in base 11 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 26
-Enter number in base 11 to convert to base 26 (To go back type /back) > 8313307a0aa74a
-Conversion result: 20ha8oi85gi
+Enter number in base 11 to convert to base 26 (To go back type /back) > 530.28383052105
+Conversion result: oe.6dd4j
 
 Enter number in base 11 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 29
-Enter number in base 11 to convert to base 29 (To go back type /back) > 932a4338a12a25
-Conversion result: m3hefab3ls
+Enter number in base 11 to convert to base 29 (To go back type /back) > 389.5a358740680
+Conversion result: fp.fj04g
 
 Enter number in base 11 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 32
-Enter number in base 11 to convert to base 32 (To go back type /back) > 119059482746457
-Conversion result: cijcrq9fj0
+Enter number in base 11 to convert to base 32 (To go back type /back) > 268.79743650739
+Conversion result: 9s.mtfmv
 
 Enter number in base 11 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 35
-Enter number in base 11 to convert to base 35 (To go back type /back) > 1204aa966a42445
-Conversion result: 5owlg8d51m
+Enter number in base 11 to convert to base 35 (To go back type /back) > 70.450136a74a9
+Conversion result: 27.e66i5
 
 Enter number in base 11 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 2
-Enter number in base 14 to convert to base 2 (To go back type /back) > 23670c349b86a
-Conversion result: 11100111110001011001110100100111100111100110110
+Enter number in base 14 to convert to base 2 (To go back type /back) > 4c7.22087202ca2d35
+Conversion result: 1110111111.00100
 
 Enter number in base 14 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 5
-Enter number in base 14 to convert to base 5 (To go back type /back) > 57264982c7635
-Conversion result: 311430411024233412103
+Enter number in base 14 to convert to base 5 (To go back type /back) > 333.1bac379108c1b4
+Conversion result: 10013.03120
 
 Enter number in base 14 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 8
-Enter number in base 14 to convert to base 8 (To go back type /back) > 5d9d39ac29d23
-Conversion result: 11504761514054053
+Enter number in base 14 to convert to base 8 (To go back type /back) > 18d.3cdcaa0d186dac
+Conversion result: 501.21752
 
 Enter number in base 14 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 11
-Enter number in base 14 to convert to base 11 (To go back type /back) > 6631c11bdcb71
-Conversion result: a646536372359a
+Enter number in base 14 to convert to base 11 (To go back type /back) > 245.924982759152a8
+Conversion result: 382.72255
 
 Enter number in base 14 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 17
-Enter number in base 14 to convert to base 17 (To go back type /back) > 43771c9119413
-Conversion result: 70a1110aag6b
+Enter number in base 14 to convert to base 17 (To go back type /back) > 4c1.aa6ad3c7185b5d
+Conversion result: 351.d0f1c
 
 Enter number in base 14 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 20
-Enter number in base 14 to convert to base 20 (To go back type /back) > 4dda7773678d7
-Conversion result: 17da4e7e4h79
+Enter number in base 14 to convert to base 20 (To go back type /back) > 56.a5d8246c747d2c
+Conversion result: 3g.ehi00
 
 Enter number in base 14 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 23
-Enter number in base 14 to convert to base 23 (To go back type /back) > 57ad09071355b
-Conversion result: 7dk3akfg2kf
+Enter number in base 14 to convert to base 23 (To go back type /back) > 24c.42a902729ba8a4
+Conversion result: k0.6kdf7
 
 Enter number in base 14 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 26
-Enter number in base 14 to convert to base 26 (To go back type /back) > 3d53739906202
-Conversion result: 1f7lg0k248a
+Enter number in base 14 to convert to base 26 (To go back type /back) > 4d9.88b7aa4a01390d
+Conversion result: 1bd.g0inb
 
 Enter number in base 14 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 29
-Enter number in base 14 to convert to base 29 (To go back type /back) > 33a5d109d091d
-Conversion result: cm8rgsgrhm
+Enter number in base 14 to convert to base 29 (To go back type /back) > 461.2238196727612b
+Conversion result: 10s.4dnqs
 
 Enter number in base 14 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 32
-Enter number in base 14 to convert to base 32 (To go back type /back) > 372551d53655
-Conversion result: cttu3ktbr
+Enter number in base 14 to convert to base 32 (To go back type /back) > 19.967c46224182dd
+Conversion result: n.lki9s
 
 Enter number in base 14 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 35
-Enter number in base 14 to convert to base 35 (To go back type /back) > 4159444832b62
-Conversion result: 2x837n3eyn
+Enter number in base 14 to convert to base 35 (To go back type /back) > 149.28a90b140cb316
+Conversion result: 7g.6jq77
 
 Enter number in base 14 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 2
-Enter number in base 17 to convert to base 2 (To go back type /back) > 669c8g68b4d3
-Conversion result: 110001110001001001110001000000110100100100010110
+Enter number in base 17 to convert to base 2 (To go back type /back) > 1ca.e52de936752218e72
+Conversion result: 111110111.11010
 
 Enter number in base 17 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 5
-Enter number in base 17 to convert to base 5 (To go back type /back) > 231dbe788300
-Conversion result: 34301110000242313200
+Enter number in base 17 to convert to base 5 (To go back type /back) > 12c.86dg4662dac96bdef
+Conversion result: 2320.22134
 
 Enter number in base 17 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 8
-Enter number in base 17 to convert to base 8 (To go back type /back) > 5e68c3g5ce9a
-Conversion result: 5543436520307462
+Enter number in base 17 to convert to base 8 (To go back type /back) > 39.09252b0bc2d851088
+Conversion result: 74.02013
 
 Enter number in base 17 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 11
-Enter number in base 17 to convert to base 11 (To go back type /back) > 6g022da7775
-Conversion result: 4505a27713465
+Enter number in base 17 to convert to base 11 (To go back type /back) > cg.356d70555a5292dg3
+Conversion result: 190.21682
 
 Enter number in base 17 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 14
-Enter number in base 17 to convert to base 14 (To go back type /back) > 131bg6ddbdbf
-Conversion result: a013b3c95bc6
+Enter number in base 17 to convert to base 14 (To go back type /back) > 360.4ac00b7g5d20142c7
+Conversion result: 4d3.3b542
 
 Enter number in base 17 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 20
-Enter number in base 17 to convert to base 20 (To go back type /back) > 42gb7d03f340
-Conversion result: dj9e90hiige
+Enter number in base 17 to convert to base 20 (To go back type /back) > 141.16e8efd04de567ed3
+Conversion result: hi.1d068
 
 Enter number in base 17 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 23
-Enter number in base 17 to convert to base 23 (To go back type /back) > 4feeg228bfde
-Conversion result: 41k5acaagee
+Enter number in base 17 to convert to base 23 (To go back type /back) > 20a.899188681gc62006e
+Conversion result: 12d.bd917
 
 Enter number in base 17 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 26
-Enter number in base 17 to convert to base 26 (To go back type /back) > 8bfe2db6g8e
-Conversion result: 3604d6jjd0
+Enter number in base 17 to convert to base 26 (To go back type /back) > 267.11e0bac68efe80967
+Conversion result: 10b.1i0na
 
 Enter number in base 17 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 29
-Enter number in base 17 to convert to base 29 (To go back type /back) > d077b68g9gfb
-Conversion result: 11mbej3f68j
+Enter number in base 17 to convert to base 29 (To go back type /back) > 2gd.5c858d9c7e8718439
+Conversion result: 10m.9mk42
 
 Enter number in base 17 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 32
-Enter number in base 17 to convert to base 32 (To go back type /back) > 96fcg60g44c9
-Conversion result: 957dqc7uod
+Enter number in base 17 to convert to base 32 (To go back type /back) > 16b.ecc78616eg9c886bd
+Conversion result: ci.rocri
 
 Enter number in base 17 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 35
-Enter number in base 17 to convert to base 35 (To go back type /back) > 79049c30a588
-Conversion result: 39l7p5q5fb
+Enter number in base 17 to convert to base 35 (To go back type /back) > 2d1.d7e3cea2aea786d67
+Conversion result: mu.roy9v
 
 Enter number in base 17 to convert to base 35 (To go back type /back) > /back
 
@@ -1262,434 +1298,1268 @@ Enter two numbers in format: {source base} {target base} (To quit type /exit) > 
 ?[1;31m
 Start test 7?[0m
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 2
-Enter number in base 19 to convert to base 2 (To go back type /back) > 9f0egi0diih
-Conversion result: 1101101001100110010010111101000111011110100110
+Enter number in base 19 to convert to base 2 (To go back type /back) > 18e.6fc9dc3hhh399gg8e36
+Conversion result: 1000001111.01011
 
 Enter number in base 19 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 5
-Enter number in base 19 to convert to base 5 (To go back type /back) > 29eab58ah9g0
-Conversion result: 301341140000120113110
+Enter number in base 19 to convert to base 5 (To go back type /back) > 8b.g26c55c63f6ba7384gh
+Conversion result: 1123.41101
 
 Enter number in base 19 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 8
-Enter number in base 19 to convert to base 8 (To go back type /back) > 1d80d49chgd5
-Conversion result: 5514571746335411
+Enter number in base 19 to convert to base 8 (To go back type /back) > 216.cd8edbf011af5hg8bac
+Conversion result: 1353.52635
 
 Enter number in base 19 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 11
-Enter number in base 19 to convert to base 11 (To go back type /back) > 28e28eg8fg87
-Conversion result: 833525520374a5
+Enter number in base 19 to convert to base 11 (To go back type /back) > 1f0.0g4i9ba835b6i1gbd14
+Conversion result: 538.054a6
 
 Enter number in base 19 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 14
-Enter number in base 19 to convert to base 14 (To go back type /back) > 1a0i22i2g95f
-Conversion result: 31da6ddb53738
+Enter number in base 19 to convert to base 14 (To go back type /back) > 1ca.097fah01h2g4a3c882a
+Conversion result: 30b.05177
 
 Enter number in base 19 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 17
-Enter number in base 19 to convert to base 17 (To go back type /back) > 1ihi6g687g0
-Conversion result: 61452g9d8g9
+Enter number in base 19 to convert to base 17 (To go back type /back) > 2db.1bhia491f9bb4bbh9e8
+Conversion result: 36b.17d27
 
 Enter number in base 19 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 20
-Enter number in base 19 to convert to base 20 (To go back type /back) > 254bi5bic3g5
-Conversion result: 15hgcce57344
+Enter number in base 19 to convert to base 20 (To go back type /back) > 1a1.a6icb9h0g5df7104ee4
+Conversion result: 17c.ai55c
 
 Enter number in base 19 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 23
-Enter number in base 19 to convert to base 23 (To go back type /back) > 3df3fc3909d8
-Conversion result: ab00e37kd2h
+Enter number in base 19 to convert to base 23 (To go back type /back) > 1b7.ih8ae7fg926ca6h5gd0
+Conversion result: 122.mkgib
 
 Enter number in base 19 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 26
-Enter number in base 19 to convert to base 26 (To go back type /back) > 4143d3d8dbe4
-Conversion result: 395483iglnj
+Enter number in base 19 to convert to base 26 (To go back type /back) > 1bi.e7eda4736158hga9cea
+Conversion result: mg.jih7b
 
 Enter number in base 19 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 29
-Enter number in base 19 to convert to base 29 (To go back type /back) > 23fdci59i5hh
-Conversion result: hjigb1os8a
+Enter number in base 19 to convert to base 29 (To go back type /back) > 15i.bcc940c9f6a1e8ba6dd
+Conversion result: ga.hnb2h
 
 Enter number in base 19 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 32
-Enter number in base 19 to convert to base 32 (To go back type /back) > 11664f6ef581
-Conversion result: 3hc629r15q
+Enter number in base 19 to convert to base 32 (To go back type /back) > 65.31id7d396b7fbggc681
+Conversion result: 3n.579uq
 
 Enter number in base 19 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 35
-Enter number in base 19 to convert to base 35 (To go back type /back) > 337b755f66ge
-Conversion result: 4ofnmhew4p
+Enter number in base 19 to convert to base 35 (To go back type /back) > 291.i4b54b745011f2c5de6
+Conversion result: pj.xl3u1
 
 Enter number in base 19 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 2
-Enter number in base 22 to convert to base 2 (To go back type /back) > 4a338ij603a
-Conversion result: 11010111100001100001110000010100110011001001100
+Enter number in base 22 to convert to base 2 (To go back type /back) > 1j9.7heb69ckijhi1d3681cld4
+Conversion result: 1110001111.01011
 
 Enter number in base 22 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 5
-Enter number in base 22 to convert to base 5 (To go back type /back) > e2lb6i5k13
-Conversion result: 4214043444240121342
+Enter number in base 22 to convert to base 5 (To go back type /back) > lk.47i7bhka926bd7hld8bieg
+Conversion result: 3412.04433
 
 Enter number in base 22 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 8
-Enter number in base 22 to convert to base 8 (To go back type /back) > bh5f1789bjl
-Conversion result: 10712530025342273
+Enter number in base 22 to convert to base 8 (To go back type /back) > bj.1ec95a8la42d980b0febb0
+Conversion result: 405.04653
 
 Enter number in base 22 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 11
-Enter number in base 22 to convert to base 11 (To go back type /back) > c7ehbaj8gee
-Conversion result: 95561399724073
+Enter number in base 22 to convert to base 11 (To go back type /back) > 1a7.8j4l8h1agkf28lh62h2l19
+Conversion result: 597.44896
 
 Enter number in base 22 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 14
-Enter number in base 22 to convert to base 14 (To go back type /back) > ad07le140e6
-Conversion result: 4d6791d7daa26
+Enter number in base 22 to convert to base 14 (To go back type /back) > k3.38hj9adjc21bg43i6fgcg5
+Conversion result: 239.2241d
 
 Enter number in base 22 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 17
-Enter number in base 22 to convert to base 17 (To go back type /back) > hjje7b21ge3
-Conversion result: deegbc29ef52
+Enter number in base 22 to convert to base 17 (To go back type /back) > 1g0.3d3gfl3f6j242i85c5iah8
+Conversion result: 2f3.2d4b6
 
 Enter number in base 22 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 20
-Enter number in base 22 to convert to base 20 (To go back type /back) > 9jf5dkg8blg
-Conversion result: 15d63i5if9ai
+Enter number in base 22 to convert to base 20 (To go back type /back) > eb.1dc218gdjdcg2edbgd01kc
+Conversion result: fj.197c0
 
 Enter number in base 22 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 23
-Enter number in base 22 to convert to base 23 (To go back type /back) > f9g15a837eh
-Conversion result: 9kg90if98f8
+Enter number in base 22 to convert to base 23 (To go back type /back) > 180.ecdke60gie1c746kch77g7
+Conversion result: 15g.f5a66
 
 Enter number in base 22 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 26
-Enter number in base 22 to convert to base 26 (To go back type /back) > 12l9bdd4959
-Conversion result: 5e9nb3japh
+Enter number in base 22 to convert to base 26 (To go back type /back) > 1e.8dkajfekbbl41dgd17ej5a
+Conversion result: 1a.a574d
 
 Enter number in base 22 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 29
-Enter number in base 22 to convert to base 29 (To go back type /back) > bk8hhk82j3
-Conversion result: smlrgd69b
+Enter number in base 22 to convert to base 29 (To go back type /back) > h2.gk2gg2klc23a9e5caf8kl4
+Conversion result: cs.m8hds
 
 Enter number in base 22 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 32
-Enter number in base 22 to convert to base 32 (To go back type /back) > i7dgaf9kejg
-Conversion result: dr5qivlptq
+Enter number in base 22 to convert to base 32 (To go back type /back) > 1l3.kcaagca6ii0jaic98b23hc
+Conversion result: tl.tt9q7
 
 Enter number in base 22 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 35
-Enter number in base 22 to convert to base 35 (To go back type /back) > i5a33ad2a64
-Conversion result: 6581yubq7s
+Enter number in base 22 to convert to base 35 (To go back type /back) > cj.lc648gj69k3j36j0i8518j
+Conversion result: 83.yae2f
 
 Enter number in base 22 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 2
-Enter number in base 25 to convert to base 2 (To go back type /back) > 42dgajc6fck
-Conversion result: 1011000111100011101100110110101100011001000011001
+Enter number in base 25 to convert to base 2 (To go back type /back) > 15k.1g2ooc7336ncadi3o4kfa2j4o
+Conversion result: 1100000010.00010
 
 Enter number in base 25 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 5
-Enter number in base 25 to convert to base 5 (To go back type /back) > 50gf8lm343o
-Conversion result: 1000313013414203040344
+Enter number in base 25 to convert to base 5 (To go back type /back) > 6b.5eo0c32n9ng0m8c7h9c355fg4
+Conversion result: 1121.10244
 
 Enter number in base 25 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 8
-Enter number in base 25 to convert to base 8 (To go back type /back) > 45jbc55f69e
-Conversion result: 13357702326602601
+Enter number in base 25 to convert to base 8 (To go back type /back) > da.5g2bie488almbmli8gcna8h0f
+Conversion result: 517.16345
 
 Enter number in base 25 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 11
-Enter number in base 25 to convert to base 11 (To go back type /back) > 3c3joglbjci
-Conversion result: 96a27905aa0677
+Enter number in base 25 to convert to base 11 (To go back type /back) > 10m.gcei0fn9c4nh9210i0f9he48l
+Conversion result: 539.72971
 
 Enter number in base 25 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 14
-Enter number in base 25 to convert to base 14 (To go back type /back) > 52m4jgb7ffj
-Conversion result: 88682a788c9dd
+Enter number in base 25 to convert to base 14 (To go back type /back) > 82.15bli50k5c3bc3c077a402i4d
+Conversion result: 106.097b2
 
 Enter number in base 25 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 17
-Enter number in base 25 to convert to base 17 (To go back type /back) > 2omec0akd36
-Conversion result: 85c7e6006c3d
+Enter number in base 25 to convert to base 17 (To go back type /back) > d0.eeh4cbhklgcdd2ll6a8810och
+Conversion result: 122.9fac8
 
 Enter number in base 25 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 20
-Enter number in base 25 to convert to base 20 (To go back type /back) > 3kkf9fljf4m
-Conversion result: 1fdijc4e01h7
+Enter number in base 25 to convert to base 20 (To go back type /back) > f0.gmm613cbf2h9e4oedlnac0gn2
+Conversion result: if.dacj4
 
 Enter number in base 25 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 23
-Enter number in base 25 to convert to base 23 (To go back type /back) > 2mo6lmoc2i4
-Conversion result: 6gcd5664j37
+Enter number in base 25 to convert to base 23 (To go back type /back) > 3i.g4n91hikekjib698bh7fe7cnn
+Conversion result: 41.ekgmm
 
 Enter number in base 25 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 26
-Enter number in base 25 to convert to base 26 (To go back type /back) > c3ll6m30b3
-Conversion result: 8e0pe2m7em
+Enter number in base 25 to convert to base 26 (To go back type /back) > d1.kl89ah7c8d7o02acfo55363k0
+Conversion result: ce.lhmlo
 
 Enter number in base 25 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 29
-Enter number in base 25 to convert to base 29 (To go back type /back) > 182fl291ej3
-Conversion result: 8kd0qeqq4a
+Enter number in base 25 to convert to base 29 (To go back type /back) > 1e1.f3g5eli007fgk398f6foe2kb8
+Conversion result: 14j.hgeo3
 
 Enter number in base 25 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 32
-Enter number in base 25 to convert to base 32 (To go back type /back) > 3607f6med21
-Conversion result: 8p2529fjr1
+Enter number in base 25 to convert to base 32 (To go back type /back) > 69.0k6o7h0l7h2hed8nb8aaim1af
+Conversion result: 4v.117a9
 
 Enter number in base 25 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 35
-Enter number in base 25 to convert to base 35 (To go back type /back) > 3ml75ge3f1e
-Conversion result: 4pqmqcmh9o
+Enter number in base 25 to convert to base 35 (To go back type /back) > 17d.hko4bgod490gm399daoic672m
+Conversion result: n8.oy3fx
 
 Enter number in base 25 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 2
-Enter number in base 28 to convert to base 2 (To go back type /back) > 1ae1103gh50
-Conversion result: 1011100100110110001010001110011101000001110011100
+Enter number in base 28 to convert to base 2 (To go back type /back) > 13o.8gbcjqrj1jn1o06rg63f03n57
+Conversion result: 1101111100.01001
 
 Enter number in base 28 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 5
-Enter number in base 28 to convert to base 5 (To go back type /back) > 1h6jjmjif5d
-Conversion result: 1000211240004443230424
+Enter number in base 28 to convert to base 5 (To go back type /back) > 2r.m6f6kbplol2bnb8gm74jhpdfl
+Conversion result: 313.34411
 
 Enter number in base 28 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 8
-Enter number in base 28 to convert to base 8 (To go back type /back) > phk19p2pcq
-Conversion result: 7551642617777172
+Enter number in base 28 to convert to base 8 (To go back type /back) > ka.hl6686alan5k934krh5enkfl
+Conversion result: 1072.50455
 
 Enter number in base 28 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 11
-Enter number in base 28 to convert to base 11 (To go back type /back) > 1g8cbr0d2q7
-Conversion result: 126362029209849
+Enter number in base 28 to convert to base 11 (To go back type /back) > 6b.l8kodhb70em6bcd1b6gd2kfl
+Conversion result: 153.8410a
 
 Enter number in base 28 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 14
-Enter number in base 28 to convert to base 14 (To go back type /back) > ab34r943bi
-Conversion result: 1d2330a664d94
+Enter number in base 28 to convert to base 14 (To go back type /back) > ae.ligenobgp597fdrdf3j6ag88l
+Conversion result: 170.ab90b
 
 Enter number in base 28 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 17
-Enter number in base 28 to convert to base 17 (To go back type /back) > 12lpjfifn7m
-Conversion result: 988fe6fca2bc
+Enter number in base 28 to convert to base 17 (To go back type /back) > 9.okd6f3k41bbq230kg44c4p18l
+Conversion result: 9.f047c
 
 Enter number in base 28 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 20
-Enter number in base 28 to convert to base 20 (To go back type /back) > bk0e89ifer
-Conversion result: c20h2hjcbb7
+Enter number in base 28 to convert to base 20 (To go back type /back) > 161.7mmh6qlp4c7e00bj989hh9m2he
+Conversion result: 27d.5bce8
 
 Enter number in base 28 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 23
-Enter number in base 28 to convert to base 23 (To go back type /back) > didhnk085e
-Conversion result: 3b561440le3
+Enter number in base 28 to convert to base 23 (To go back type /back) > i3.7e90jb79rqfq20mp7r56khighe
+Conversion result: m1.63l0l
 
 Enter number in base 28 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 26
-Enter number in base 28 to convert to base 26 (To go back type /back) > 1g0hahoiacc
-Conversion result: 37k0749hp4o
+Enter number in base 28 to convert to base 26 (To go back type /back) > 89.lm0n68p8gq9684rph6efndiml
+Conversion result: 8p.k5pn0
 
 Enter number in base 28 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 29
-Enter number in base 28 to convert to base 29 (To go back type /back) > ddln888pk3
-Conversion result: 9o90m4k1o2
+Enter number in base 28 to convert to base 29 (To go back type /back) > jq.cn778b50679n7bfjeoggj66fl
+Conversion result: j7.d8b0c
 
 Enter number in base 28 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 32
-Enter number in base 28 to convert to base 32 (To go back type /back) > 146agbnjei7
-Conversion result: 9m22n2et8v
+Enter number in base 28 to convert to base 32 (To go back type /back) > 137.6n8j3gfob8a03qa45pflk2kfl
+Conversion result: rb.7ps1g
 
 Enter number in base 28 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 35
-Enter number in base 28 to convert to base 35 (To go back type /back) > 1dobogg82ng
-Conversion result: 5lohnoid0n
+Enter number in base 28 to convert to base 35 (To go back type /back) > lb.8fro386mckcefm4d1kpjefjd3e
+Conversion result: h4.aoyvb
 
 Enter number in base 28 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 2
-Enter number in base 31 to convert to base 2 (To go back type /back) > eeg069ku6j
-Conversion result: 1010110111110101000000000100110100111111111001010
+Enter number in base 31 to convert to base 2 (To go back type /back) > da.10j0434eds8deedr46ckha84h396ll8
+Conversion result: 110011101.00001
 
 Enter number in base 31 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 5
-Enter number in base 31 to convert to base 5 (To go back type /back) > 8h1roh6s73
-Conversion result: 214112400341101000333
+Enter number in base 31 to convert to base 5 (To go back type /back) > 6d.afn6sc6h4r20kpe7gste1d0n54n4bji
+Conversion result: 1244.13214
 
 Enter number in base 31 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 8
-Enter number in base 31 to convert to base 8 (To go back type /back) > fl5t0ck1rj
-Conversion result: 13622160005705457
+Enter number in base 31 to convert to base 8 (To go back type /back) > e6.c9hcganaru33ip6mstf6a8jlua71864
+Conversion result: 670.31322
 
 Enter number in base 31 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 11
-Enter number in base 31 to convert to base 11 (To go back type /back) > 8m9u3021p4
-Conversion result: 67509871168015
+Enter number in base 31 to convert to base 11 (To go back type /back) > mi.o2ush7rf41neqafismpqmjku46f0ohe
+Conversion result: 587.86066
 
 Enter number in base 31 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 14
-Enter number in base 31 to convert to base 14 (To go back type /back) > h7ui3nm6cs
-Conversion result: 809647a337610
+Enter number in base 31 to convert to base 14 (To go back type /back) > dp.0jgrq3m2sugq5chbqif76h1apfutc5j
+Conversion result: 228.03db5
 
 Enter number in base 31 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 17
-Enter number in base 31 to convert to base 17 (To go back type /back) > 5f3sil05sa
-Conversion result: 43g98egaegde
+Enter number in base 31 to convert to base 17 (To go back type /back) > 7s.5jfcbjlsh091m2fkcm0a9h4skqkj7ql
+Conversion result: e7.3181c
 
 Enter number in base 31 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 20
-Enter number in base 31 to convert to base 20 (To go back type /back) > a38ukmffdh
-Conversion result: 161hbebi316d
+Enter number in base 31 to convert to base 20 (To go back type /back) > 3k.18dq4812hj1cfl3nit4d5pono160nmf
+Conversion result: 5d.0g880
 
 Enter number in base 31 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 23
-Enter number in base 31 to convert to base 23 (To go back type /back) > 8jtgglmjqc
-Conversion result: 5bk6h7j169h
+Enter number in base 31 to convert to base 23 (To go back type /back) > 13.l3h4a6nm7jr163n472c8et4mscsi2lf
+Conversion result: 1b.ff746
 
 Enter number in base 31 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 26
-Enter number in base 31 to convert to base 26 (To go back type /back) > 79hspiodce
-Conversion result: 19fa470nj9f
+Enter number in base 31 to convert to base 26 (To go back type /back) > 9k.qlgp380b1ht6kfr3kjn3a6r2qbnihcl
+Conversion result: bd.ma35j
 
 Enter number in base 31 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 29
-Enter number in base 31 to convert to base 29 (To go back type /back) > 6e7b1crq6a
-Conversion result: bmbbdjb1d6
+Enter number in base 31 to convert to base 29 (To go back type /back) > s0.441r7tklhk0rqjdd91e1b0arkup85d0
+Conversion result: 10r.3p227
 
 Enter number in base 31 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 32
-Enter number in base 31 to convert to base 32 (To go back type /back) > 2a6848ip9e
-Conversion result: 1o078g9itq
+Enter number in base 31 to convert to base 32 (To go back type /back) > 21.e73nhkg75n721de3qc6d8rdkbf72d7g
+Conversion result: 1v.em15b
 
 Enter number in base 31 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 35
-Enter number in base 31 to convert to base 35 (To go back type /back) > c99pjtu7np
-Conversion result: 44err087pi
+Enter number in base 31 to convert to base 35 (To go back type /back) > dd.ic5n4rfad63hakok4g6b9a4ab7042qi
+Conversion result: bv.kqt0t
 
 Enter number in base 31 to convert to base 35 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 2
-Enter number in base 34 to convert to base 2 (To go back type /back) > 3r42rlj2xc
-Conversion result: 110100011011011010000101011001100000110010111110
+Enter number in base 34 to convert to base 2 (To go back type /back) > 3x.pgkqbj7s7mpqu697fwr1178tx9s3fvvgpt
+Conversion result: 10000111.10111
 
 Enter number in base 34 to convert to base 2 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 5
-Enter number in base 34 to convert to base 5 (To go back type /back) > 6kwcbpoxtj
-Conversion result: 410123220223324003232
+Enter number in base 34 to convert to base 5 (To go back type /back) > bb.blfjrvftjik39u8awoqmx3a1r32wug8ga8
+Conversion result: 3020.13234
 
 Enter number in base 34 to convert to base 5 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 8
-Enter number in base 34 to convert to base 8 (To go back type /back) > 71nbpo6q5r
-Conversion result: 14124527015575475
+Enter number in base 34 to convert to base 8 (To go back type /back) > ri.c9o1v6cjbcolpiqajrtr22p8ntit7mv9b6
+Conversion result: 1650.27100
 
 Enter number in base 34 to convert to base 8 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 11
-Enter number in base 34 to convert to base 11 (To go back type /back) > 24djffmpbs
-Conversion result: 38217652921930
+Enter number in base 34 to convert to base 11 (To go back type /back) > c7.j7pcj70agjw5jflvhf5qj4rnl89687c7pk
+Conversion result: 348.62478
 
 Enter number in base 34 to convert to base 11 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 14
-Enter number in base 34 to convert to base 14 (To go back type /back) > 79q6ft475b
-Conversion result: 7b39705ac0265
+Enter number in base 34 to convert to base 14 (To go back type /back) > 4q.qgtb7teo6w47fjsampwdw4qc3ee2dk01rv
+Conversion result: b8.aca52
 
 Enter number in base 34 to convert to base 14 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 17
-Enter number in base 34 to convert to base 17 (To go back type /back) > 7dd2epk42x
-Conversion result: d1b972d17g5g
+Enter number in base 34 to convert to base 17 (To go back type /back) > 33.1tfrl1pi5713h4sj5fs8n3fksexv9753m1
+Conversion result: 63.0fec5
 
 Enter number in base 34 to convert to base 17 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 20
-Enter number in base 34 to convert to base 20 (To go back type /back) > 3gs629ttvr
-Conversion result: 10e942ibf179
+Enter number in base 34 to convert to base 20 (To go back type /back) > kj.2meik0920ehpflexls9xqbcj3hxb0m6tou
+Conversion result: 1ej.1b5f4
 
 Enter number in base 34 to convert to base 20 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 23
-Enter number in base 34 to convert to base 23 (To go back type /back) > 1r1mhvjn2t
-Conversion result: 2ec3b2g9bd2
+Enter number in base 34 to convert to base 23 (To go back type /back) > o8.lvnhtcdu4n7i1tvb6xb8ief0nuswgp1188
+Conversion result: 1cj.ej5a5
 
 Enter number in base 34 to convert to base 23 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 26
-Enter number in base 34 to convert to base 26 (To go back type /back) > 83sgbi3mnu
-Conversion result: 3cilkcokkla
+Enter number in base 34 to convert to base 26 (To go back type /back) > il.7fo4b8v83d9l0653uons2ckn0p705j817o
+Conversion result: o9.5i9ad
 
 Enter number in base 34 to convert to base 26 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 29
-Enter number in base 34 to convert to base 29 (To go back type /back) > 861st3lbwv
-Conversion result: 156hh064lge
+Enter number in base 34 to convert to base 29 (To go back type /back) > 3d.vogs02ddfouj9hoe2obtc7ttc82v2i8mo8
+Conversion result: 3s.r1hkn
 
 Enter number in base 34 to convert to base 29 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 32
-Enter number in base 34 to convert to base 32 (To go back type /back) > n32jxmx9i
-Conversion result: 15g2tk57r8
+Enter number in base 34 to convert to base 32 (To go back type /back) > 1d.mcjd57rcjh1fhll0j193a1d605xgtrj5ot
+Conversion result: 1f.l1n1j
 
 Enter number in base 34 to convert to base 32 (To go back type /back) > /back
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 35
-Enter number in base 34 to convert to base 35 (To go back type /back) > 54b560fpqc
-Conversion result: 3x8lxpme5i
+Enter number in base 34 to convert to base 35 (To go back type /back) > b3.pr7k92nkmtstnhd0w601eg4memmkawnpw8
+Conversion result: ar.qjk99
+
+Enter number in base 34 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
+?[1;31m
+Start test 8?[0m
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 5
+Enter number in base 2 to convert to base 5 (To go back type /back) > 1000111110010011110110110111100111011011011000000.10000
+Conversion result: 312340411340020242400.22222
+
+Enter number in base 2 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 8
+Enter number in base 2 to convert to base 8 (To go back type /back) > 101011011000101011000001010000000000000110000000.00101111010111000010100011
+Conversion result: 5330530120000600.13656
+
+Enter number in base 2 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 11
+Enter number in base 2 to convert to base 11 (To go back type /back) > 11110001010001110111011001010101110110101111000.10110011001100110011001100
+Conversion result: 392a02a1242991.77777
+
+Enter number in base 2 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 14
+Enter number in base 2 to convert to base 14 (To go back type /back) > 1100110000110111101001100101010110111111011001110.01001100110011001100110011
+Conversion result: 7cc77583d7258.42b2b
+
+Enter number in base 2 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 17
+Enter number in base 2 to convert to base 17 (To go back type /back) > 1010011001101000001110100001000010000011111100.0011001100110011001100110
+Conversion result: 15bc3f7831dd.36da3
+
+Enter number in base 2 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 20
+Enter number in base 2 to convert to base 20 (To go back type /back) > 110100001001111100000110110000000010000010010001.10100001010001111010111000
+Conversion result: 128044h7e00h.cc000
+
+Enter number in base 2 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 23
+Enter number in base 2 to convert to base 23 (To go back type /back) > 111101010001101000111100001111101001001001111110.01110011001100110011001100
+Conversion result: 6be779185e6.a813a
+
+Enter number in base 2 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 26
+Enter number in base 2 to convert to base 26 (To go back type /back) > 1000101101010110110100100110111001101001111011100.00000
+Conversion result: 24b7eema8k4.00000
+
+Enter number in base 2 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 29
+Enter number in base 2 to convert to base 29 (To go back type /back) > 1011000010010100010000111000001101001101110000010.00011001100110011001100110
+Conversion result: qm6bjsf0a9.2q2q2
+
+Enter number in base 2 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 32
+Enter number in base 2 to convert to base 32 (To go back type /back) > 100101010001001110011110011110001110011101011001.00011001100110011001100110
+Conversion result: 4l2ef7hpqp.36cpj
+
+Enter number in base 2 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 2 35
+Enter number in base 2 to convert to base 35 (To go back type /back) > 1110001010100001101011100010101011010101000110010.00011001100110011001100110
+Conversion result: 6bawqna0hh.3hhhh
+
+Enter number in base 2 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 2
+Enter number in base 5 to convert to base 2 (To go back type /back) > 1004114324312122303201.20000
+Conversion result: 1110000001000010110110010011110010011010000101100.01100
+
+Enter number in base 5 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 8
+Enter number in base 5 to convert to base 8 (To go back type /back) > 213440334011140303011.33333333333333333333333333
+Conversion result: 6311213041470017.60000
+
+Enter number in base 5 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 11
+Enter number in base 5 to convert to base 11 (To go back type /back) > 113234222134443004032.00000
+Conversion result: 37872021119001.00000
+
+Enter number in base 5 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 14
+Enter number in base 5 to convert to base 14 (To go back type /back) > 211144224311144333010.02222222222222222222222222
+Conversion result: 3b1a79c664397.15858
+
+Enter number in base 5 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 17
+Enter number in base 5 to convert to base 17 (To go back type /back) > 211412243314223112204.22222222222222222222222222
+Conversion result: 65a156bc85fd.88888
+
+Enter number in base 5 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 20
+Enter number in base 5 to convert to base 20 (To go back type /back) > 141003243104110311341.40000
+Conversion result: h2ig3aec5h6.g0000
+
+Enter number in base 5 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 23
+Enter number in base 5 to convert to base 23 (To go back type /back) > 310140023312444234023.22222222222222222222222222
+Conversion result: 794cfkgd053.bbbbb
+
+Enter number in base 5 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 26
+Enter number in base 5 to convert to base 26 (To go back type /back) > 1001011333431124221301.21111111111111111111111111
+Conversion result: 3aeh4i0dhff.bi555
+
+Enter number in base 5 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 29
+Enter number in base 5 to convert to base 29 (To go back type /back) > 424124321431001141324.02222222222222222222222222
+Conversion result: 111lgojlrdf.2q2q2
+
+Enter number in base 5 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 32
+Enter number in base 5 to convert to base 32 (To go back type /back) > 1004434042443404300131.41111111111111111111111111
+Conversion result: e2rnf6s2eh.r6cpj
+
+Enter number in base 5 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 5 35
+Enter number in base 5 to convert to base 35 (To go back type /back) > 132243010342444222043.40303030303030303030303030
+Conversion result: 224texeesi.sulul
+
+Enter number in base 5 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 2
+Enter number in base 8 to convert to base 2 (To go back type /back) > 11443747263345553.714631463146314632
+Conversion result: 1001100100011111100111010110011011100101101101011.11100
+
+Enter number in base 8 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 5
+Enter number in base 8 to convert to base 5 (To go back type /back) > 14633207514306303.714631463146314632
+Conversion result: 433021033010342444024.42222
+
+Enter number in base 8 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 11
+Enter number in base 8 to convert to base 11 (To go back type /back) > 13476602651310716.514631463146314632
+Conversion result: 10933147a231439.71717
+
+Enter number in base 8 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 14
+Enter number in base 8 to convert to base 14 (To go back type /back) > 14150054606766631.631463146314631464
+Conversion result: 7805569ba3665.b2b2b
+
+Enter number in base 8 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 17
+Enter number in base 8 to convert to base 17 (To go back type /back) > 3752634707624601.727024365605075342
+Conversion result: 411879a228dg.faeg5
+
+Enter number in base 8 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 20
+Enter number in base 8 to convert to base 20 (To go back type /back) > 5517657150524170.0314631463146314632
+Conversion result: j8d96hcdbd4.10000
+
+Enter number in base 8 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 23
+Enter number in base 8 to convert to base 23 (To go back type /back) > 11516646337343207.546314631463146314
+Conversion result: 84d9k0ib6f5.g26kg
+
+Enter number in base 8 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 26
+Enter number in base 8 to convert to base 26 (To go back type /back) > 1221177004453421.0702436560507534122
+Conversion result: 88797o3po5.2m999
+
+Enter number in base 8 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 29
+Enter number in base 8 to convert to base 29 (To go back type /back) > 4440553633631411.431463146314631464
+Conversion result: b1sqaaf0qa.frfrf
+
+Enter number in base 8 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 32
+Enter number in base 8 to convert to base 32 (To go back type /back) > 13650565117550334.514631463146314632
+Conversion result: bqhekjtk6s.kpj6c
+
+Enter number in base 8 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 8 35
+Enter number in base 8 to convert to base 35 (To go back type /back) > 15524363503722677.631463146314631464
+Conversion result: 63hroq2cqq.s0000
+
+Enter number in base 8 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 2
+Enter number in base 11 to convert to base 2 (To go back type /back) > 642937aa731903.111111111111111151aa1336a3
+Conversion result: 110010001000101111010001001000011001100100010100.00011
+
+Enter number in base 11 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 5
+Enter number in base 11 to convert to base 5 (To go back type /back) > 1491a856a25824.5252525252525250a99a44611
+Conversion result: 23003203012433442120.21414
+
+Enter number in base 11 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 8
+Enter number in base 11 to convert to base 8 (To go back type /back) > 45559915a49a5.429842984298429910a655188
+Conversion result: 315416733072125.30631
+
+Enter number in base 11 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 14
+Enter number in base 11 to convert to base 14 (To go back type /back) > 132013554877352.717171717171717315247a6301
+Conversion result: 88ca2569a6b0a.91585
+
+Enter number in base 11 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 17
+Enter number in base 11 to convert to base 17 (To go back type /back) > a890238a093528.00000
+Conversion result: aeg9bcc345fa.00000
+
+Enter number in base 11 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 20
+Enter number in base 11 to convert to base 20 (To go back type /back) > 71077930312598.4a4a4a4a4a4a4a50590575a349
+Conversion result: 13ia45927h4c.90000
+
+Enter number in base 11 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 23
+Enter number in base 11 to convert to base 23 (To go back type /back) > 108a5355383212.a1a1a1a1a1a1a1a4990808847
+Conversion result: kdad7k4hci.l67al
+
+Enter number in base 11 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 26
+Enter number in base 11 to convert to base 26 (To go back type /back) > a39259897459a3.99999999999999a04251a79029
+Conversion result: 2dkmg4heo4h.naaaa
+
+Enter number in base 11 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 29
+Enter number in base 11 to convert to base 29 (To go back type /back) > 6024a892079354.2222222222222222a3a9267297
+Conversion result: e9dg4egfd5.5n5n5
+
+Enter number in base 11 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 32
+Enter number in base 11 to convert to base 32 (To go back type /back) > 17a96734aa0a96.6902469024690248009709613
+Conversion result: 1m6d6vumu2.jqs53
+
+Enter number in base 11 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 11 35
+Enter number in base 11 to convert to base 35 (To go back type /back) > 82529533651274.00000
+Conversion result: 3l3gbpeqbm.00000
+
+Enter number in base 11 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 2
+Enter number in base 14 to convert to base 2 (To go back type /back) > 25b197927a470.c8585858585858191b9aa092a7
+Conversion result: 11111000111011101100010111000101101010010010010.11100
+
+Enter number in base 14 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 5
+Enter number in base 14 to convert to base 5 (To go back type /back) > 52c244011bd01.70000
+Conversion result: 302134202441232311201.22222
+
+Enter number in base 14 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 8
+Enter number in base 14 to convert to base 8 (To go back type /back) > 79b1bb790b69c.85858585858585c4c2433d4b36
+Conversion result: 14320200527610052.46314
+
+Enter number in base 14 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 11
+Enter number in base 14 to convert to base 11 (To go back type /back) > 385a61413512d.6a11973cc46a116a83db9b9348
+Conversion result: 5a055387278364.53097
+
+Enter number in base 14 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 17
+Enter number in base 14 to convert to base 17 (To go back type /back) > 4537a7c634622.05c46a11973cc468c779d02dd5
+Conversion result: 740c13a41822.08b6a
+
+Enter number in base 14 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 20
+Enter number in base 14 to convert to base 20 (To go back type /back) > 1393aaa6a2d8a.37000
+Conversion result: 6jdhij6c926.50000
+
+Enter number in base 14 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 23
+Enter number in base 14 to convert to base 23 (To go back type /back) > 5041c3d06a374.b2b2b2b2b2b2b39086c9bc05a5
+Conversion result: 6k11a7d1i6d.i94di
+
+Enter number in base 14 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 26
+Enter number in base 14 to convert to base 26 (To go back type /back) > 7d6bad9ba829a.bc858585858585c4c2433d4b36
+Conversion result: 353pf1hp3p2.m2fff
+
+Enter number in base 14 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 29
+Enter number in base 14 to convert to base 29 (To go back type /back) > 8ad0bd4d87d3a.bc858585858585c4c2433d4b36
+Conversion result: 1594i0lpsg9.oioio
+
+Enter number in base 14 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 32
+Enter number in base 14 to convert to base 32 (To go back type /back) > 53c3042bc15c1.37000
+Conversion result: 8g2eoikpgl.80000
+
+Enter number in base 14 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 14 35
+Enter number in base 14 to convert to base 35 (To go back type /back) > 6541170a30b81.d42b2b2b2b2b2a4d571421d838
+Conversion result: 4kk2ct4klf.x8q8q
+
+Enter number in base 14 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 2
+Enter number in base 17 to convert to base 2 (To go back type /back) > bga466227f2.3f7ge1ed754a0a156egbc6d1e
+Conversion result: 101011111010110101011101011001000011111000001.00111
+
+Enter number in base 17 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 5
+Enter number in base 17 to convert to base 5 (To go back type /back) > 7ef6fb9c10a4.bf51bf51bf51b13dg331c04fb2
+Conversion result: 240340412344213044344.32222
+
+Enter number in base 17 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 8
+Enter number in base 17 to convert to base 8 (To go back type /back) > 393d13d2724a.3b25045bde91a59358f3g7356a
+Conversion result: 3346545423540426.15605
+
+Enter number in base 17 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 11
+Enter number in base 17 to convert to base 11 (To go back type /back) > ab3ebg67b691.bf51bf51bf51b13dg331c04fb2
+Conversion result: a645a486224172.77777
+
+Enter number in base 17 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 14
+Enter number in base 17 to convert to base 14 (To go back type /back) > 6aa9e10994eg.bf51bf51bf51b13dg331c04fb2
+Conversion result: 400d103a64914.9b2b2
+
+Enter number in base 17 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 20
+Enter number in base 17 to convert to base 20 (To go back type /back) > 12d88a3f73d7.ac133f7ge1ed7dc2b926aaef4
+Conversion result: 3hifd98e8d6.cc000
+
+Enter number in base 17 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 23
+Enter number in base 17 to convert to base 23 (To go back type /back) > e4gedae38g2g.a36da36da36d9d62c5e51cf39d
+Conversion result: bimad02mcg8.di94d
+
+Enter number in base 17 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 26
+Enter number in base 17 to convert to base 26 (To go back type /back) > 6df3642928d3.cccccccccccccccccccccccccc
+Conversion result: 1h0ldm5knk0.jd000
+
+Enter number in base 17 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 29
+Enter number in base 17 to convert to base 29 (To go back type /back) > 7e2edb277e12.da36da36da36e74b9556d839e6
+Conversion result: iejd3d2m6g.n5n5n
+
+Enter number in base 17 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 32
+Enter number in base 17 to convert to base 32 (To go back type /back) > d9g114c9bffb.a36da36da36d9d62c5e51cf39d
+Conversion result: d7e8dlhg2l.j6cpj
+
+Enter number in base 17 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 17 35
+Enter number in base 17 to convert to base 35 (To go back type /back) > b0e43ed4e986.295g295g295g281e3fd4b10768
+Conversion result: 4s5nta31y5.58q8q
+
+Enter number in base 17 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
+?[1;31m
+Start test 9?[0m
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 2
+Enter number in base 19 to convert to base 2 (To go back type /back) > 119f854cbh7h.5d5d5d5d5d5d63dice02776ae1
+Conversion result: 11100100110011100111001001000001001011010000011.01001
+
+Enter number in base 19 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 5
+Enter number in base 19 to convert to base 5 (To go back type /back) > 14563hc9bdac.7437ibefb0742g9h5710db5g02
+Conversion result: 122202020423244030204.14222
+
+Enter number in base 19 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 8
+Enter number in base 19 to convert to base 8 (To go back type /back) > 2942745gda19.00000
+Conversion result: 10164516147431132.00000
+
+Enter number in base 19 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 11
+Enter number in base 19 to convert to base 11 (To go back type /back) > 328b840e9i1f.00000
+Conversion result: a61642426a3a29.00000
+
+Enter number in base 19 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 14
+Enter number in base 19 to convert to base 14 (To go back type /back) > 1a93e36210e5.0i0i0i0i0i0i10bfef007ade8c
+Conversion result: 328d37910c126.09b2b
+
+Enter number in base 19 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 17
+Enter number in base 19 to convert to base 17 (To go back type /back) > 94g339ci9g1.30e86fi4ac30e9e4i18fa956i
+Conversion result: 1b28a0b9d9b3.2c416
+
+Enter number in base 19 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 20
+Enter number in base 19 to convert to base 20 (To go back type /back) > 17bh16e19323.7b7b7b7b7b7b8cg0g9e9hb32d1
+Conversion result: figghfi993j.80000
+
+Enter number in base 19 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 23
+Enter number in base 19 to convert to base 23 (To go back type /back) > 2f43f699gidg.f3f3f3f3f3f3habf127ddd9fb8
+Conversion result: 7k3h35ec5cm.i94di
+
+Enter number in base 19 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 26
+Enter number in base 19 to convert to base 26 (To go back type /back) > 38cg79faf57h.2g2g2g2g2g2g31g967013d3570
+Conversion result: 2m46ad0ck1g.3naaa
+
+Enter number in base 19 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 29
+Enter number in base 19 to convert to base 29 (To go back type /back) > 4g7116e3667.fb07437ibefafb9c01g2e317c
+Conversion result: 21grp1qrdd.nmhsc
+
+Enter number in base 19 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 32
+Enter number in base 19 to convert to base 32 (To go back type /back) > 265b7a20a5g4.4e4e4e4e4e4e4e4e4e4e4e4e4e
+Conversion result: 7mvqt2p4o2.80000
+
+Enter number in base 19 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 19 35
+Enter number in base 19 to convert to base 35 (To go back type /back) > 1f76629ed810.5d5d5d5d5d5d63dice02776ae1
+Conversion result: 2nlpi7ahls.ahhhh
+
+Enter number in base 19 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 2
+Enter number in base 22 to convert to base 2 (To go back type /back) > fl45fb20590.36d48hd48hd46b7ldbjie3h189
+Conversion result: 1100000011001110011000000111100001010010010111010.00100
+
+Enter number in base 22 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 5
+Enter number in base 22 to convert to base 5 (To go back type /back) > g6kkchl043i.48hd48hd48hd8l60gk46fe9j53
+Conversion result: 423300011313322040004.10000
+
+Enter number in base 22 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 8
+Enter number in base 22 to convert to base 8 (To go back type /back) > ajijbhf4a47.8hd48hd48hd4hkc1bi8d96jga6
+Conversion result: 10165665167275067.31463
+
+Enter number in base 22 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 11
+Enter number in base 22 to convert to base 11 (To go back type /back) > ec6b8ilecj.61248hd48hd4hkc1bi8d96jga
+Conversion result: 5667193868338.30303
+
+Enter number in base 22 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 14
+Enter number in base 22 to convert to base 14 (To go back type /back) > g9fg6675d83.d48hd48hd48h419ka3d8cf25bf
+Conversion result: 79b9b492a503d.85858
+
+Enter number in base 22 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 17
+Enter number in base 22 to convert to base 17 (To go back type /back) > 55l7f7lkb5g.1248hd48hd48ig704511ek2a6h
+Conversion result: 417aa006fgg5.0e7b0
+
+Enter number in base 22 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 20
+Enter number in base 22 to convert to base 20 (To go back type /back) > 9chbbb70kf6.gb000
+Conversion result: 14h0ihcga4f4.f0000
+
+Enter number in base 22 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 23
+Enter number in base 22 to convert to base 23 (To go back type /back) > e6e26g0j06a.5b000
+Conversion result: 93ke41cdcei.5h5h5
+
+Enter number in base 22 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 26
+Enter number in base 22 to convert to base 26 (To go back type /back) > 9i7b219fde8.48hd48hd48hd8l60gk46fe9j53
+Conversion result: 1m2ibcmfi6c.55555
+
+Enter number in base 22 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 29
+Enter number in base 22 to convert to base 29 (To go back type /back) > 4b7b9ic2i0e.dbeb9el2e1gfa5fbhkie708dh3
+Conversion result: 87linqne4i.ho66n
+
+Enter number in base 22 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 32
+Enter number in base 22 to convert to base 32 (To go back type /back) > dl8j3hkihfg.e6d48hd48hd4hkc1bi8d96jga6
+Conversion result: ahgv0ksqge.kpj6c
+
+Enter number in base 22 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 22 35
+Enter number in base 22 to convert to base 35 (To go back type /back) > da0e99hc076.b0000
+Conversion result: 4iopo5kfh6.hhhhh
+
+Enter number in base 22 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 2
+Enter number in base 25 to convert to base 2 (To go back type /back) > 3f4h9ibob7f.k0000
+Conversion result: 1001110001110011011100000110111011000110100111110.11001
+
+Enter number in base 25 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 5
+Enter number in base 25 to convert to base 5 (To go back type /back) > 2h54m4bf7co.16666666666666666666666666
+Conversion result: 232100442042130122244.01111
+
+Enter number in base 25 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 8
+Enter number in base 25 to convert to base 8 (To go back type /back) > 10llkd70o53.3iiiiiiiiiiiiiiiiiiiiiiii
+Conversion result: 2634261223051133.11463
+
+Enter number in base 25 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 11
+Enter number in base 25 to convert to base 11 (To go back type /back) > 369h50eb889.7ccccccccccccccccccccccccc
+Conversion result: 8aa1a072727235.33333
+
+Enter number in base 25 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 14
+Enter number in base 25 to convert to base 14 (To go back type /back) > 4ed04mlb2ab.k0000
+Conversion result: 79c421d4ab012.b2b2b
+
+Enter number in base 25 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 17
+Enter number in base 25 to convert to base 17 (To go back type /back) > 3h8421f11e6.diiiiiiiiiimk9l5d3k8d0bk97
+Conversion result: a4bfdg51g4d4.95g29
+
+Enter number in base 25 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 20
+Enter number in base 25 to convert to base 20 (To go back type /back) > mfd5l7ha9i.60000
+Conversion result: 88ag7196ejd.4g000
+
+Enter number in base 25 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 23
+Enter number in base 25 to convert to base 23 (To go back type /back) > 54ma2m15bnj.50000
+Conversion result: bm2c11c0fec.4di94
+
+Enter number in base 25 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 26
+Enter number in base 25 to convert to base 26 (To go back type /back) > 36akfma6cei.3iiiiiiiiiiiiiiiiiiiiiiiii
+Conversion result: 255ed057mk0.3naaa
+
+Enter number in base 25 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 29
+Enter number in base 25 to convert to base 29 (To go back type /back) > 2j76ejcmk6k.7ccccccccccccccccccccccccc
+Conversion result: i6b4ao68e2.8k8k8
+
+Enter number in base 25 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 32
+Enter number in base 25 to convert to base 32 (To go back type /back) > 19ojkj45bjk.d0000
+Conversion result: 3pcrj0p6bv.gkfbg
+
+Enter number in base 25 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 25 35
+Enter number in base 25 to convert to base 35 (To go back type /back) > 35feamk6b5m.66666666666666666666666666
+Conversion result: 3vk5w19bmr.8q8q8
+
+Enter number in base 25 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 2
+Enter number in base 28 to convert to base 2 (To go back type /back) > 9jofam46fn.olnefj13a271gddg3iqio7oe
+Conversion result: 10111010110101101010110000000101100100100011011.11100
+
+Enter number in base 28 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 5
+Enter number in base 28 to convert to base 5 (To go back type /back) > 13gejrjrr53.jgmb5gmb5gllegk172qrhd6fl
+Conversion result: 322300112411101311013.32222
+
+Enter number in base 28 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 8
+Enter number in base 28 to convert to base 8 (To go back type /back) > 15co1dc9aqn.cgmb5gmb5gm872m05nn4gpf2he
+Conversion result: 12036470175126517.34631
+
+Enter number in base 28 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 11
+Enter number in base 28 to convert to base 11 (To go back type /back) > 19ddbr88d6q.mb5gmb5gmb66db7qkp10aelc7
+Conversion result: 105376871a6a123.88888
+
+Enter number in base 28 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 14
+Enter number in base 28 to convert to base 14 (To go back type /back) > q44dhdcpkg.e0000
+Conversion result: 4c44103d554d2.70000
+
+Enter number in base 28 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 17
+Enter number in base 28 to convert to base 17 (To go back type /back) > q9ch4nch93.nmb5gmb5gmbbdmbrg89im4pml
+Conversion result: 8236d65688d1.e7b0e
+
+Enter number in base 28 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 20
+Enter number in base 28 to convert to base 20 (To go back type /back) > abk1gg3flf.qcohpl7nefi6k9r757di5988l
+Conversion result: af526jf6h63.ii000
+
+Enter number in base 28 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 23
+Enter number in base 28 to convert to base 23 (To go back type /back) > irlij2of2k.00000
+Conversion result: 4jcb0d50ff2.00000
+
+Enter number in base 28 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 26
+Enter number in base 28 to convert to base 26 (To go back type /back) > in3drkcc95.ahpl7nefj13em6km1nd9c3q7
+Conversion result: 1ahh0bl704h.9mmmm
+
+Enter number in base 28 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 29
+Enter number in base 28 to convert to base 29 (To go back type /back) > 1g72gqh9ab4.nmb5gmb5gmbbdmbrg89im4pml
+Conversion result: 137n7pei9hk.oioio
+
+Enter number in base 28 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 32
+Enter number in base 28 to convert to base 32 (To go back type /back) > 6h2lloj6pc.96k4dc8qohpn19em7j8e11d9h
+Conversion result: 1vj85pa9j8.ahte2
+
+Enter number in base 28 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 28 35
+Enter number in base 28 to convert to base 35 (To go back type /back) > q154hbja8g.70000
+Conversion result: 3hbrmk3udu.8q8q8
+
+Enter number in base 28 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 2
+Enter number in base 31 to convert to base 2 (To go back type /back) > 45uc32a32.erg3tnop17leurtqi61f75ro
+Conversion result: 110100000010100000000110000000101010011011.01111
+
+Enter number in base 31 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 5
+Enter number in base 31 to convert to base 5 (To go back type /back) > 1o3n4r19b6.uq61c7idojts9hqj8em7limak
+Conversion result: 22130221233311223314.44414
+
+Enter number in base 31 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 8
+Enter number in base 31 to convert to base 8 (To go back type /back) > fbam36og0d.7n7n7n7n7n7n7n7n7n7n7n7n7n
+Conversion result: 13430011724275020.20000
+
+Enter number in base 31 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 11
+Enter number in base 31 to convert to base 11 (To go back type /back) > 558atsahqo.qaqaqaqaqaoilam9fchucrps7j
+Conversion result: 3a610a14346095.93939
+
+Enter number in base 31 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 14
+Enter number in base 31 to convert to base 14 (To go back type /back) > 81f4fmumj6.jgda740spmke9onnars3sns0tf
+Conversion result: 3a78cd26800da.8b6a1
+
+Enter number in base 31 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 17
+Enter number in base 31 to convert to base 17 (To go back type /back) > 5d2lab7rgs.7n7n7n7n7n7n7n7n7n7n7n7n7n
+Conversion result: 431f21c913be.44444
+
+Enter number in base 31 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 20
+Enter number in base 31 to convert to base 20 (To go back type /back) > 8j8mjg906r.jbjbjbjbjbjbjbjbjbjbjbjbjb
+Conversion result: 1254f7deiche.ca000
+
+Enter number in base 31 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 23
+Enter number in base 31 to convert to base 23 (To go back type /back) > 83i6qe9hug.7n7n7n7n7n7n7n7n7n7n7n7n7n
+Conversion result: 54319j3814c.5h5h5
+
+Enter number in base 31 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 26
+Enter number in base 31 to convert to base 26 (To go back type /back) > 1imoki8p3i.k4k4k4k4k4lrp4o602sg2iki7
+Conversion result: 7l394n4le1.gnaaa
+
+Enter number in base 31 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 29
+Enter number in base 31 to convert to base 29 (To go back type /back) > i0dk52e5gj.99999999998d6omo3pkj2hoje2
+Conversion result: 13o3424if77.8k8k8
+
+Enter number in base 31 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 32
+Enter number in base 31 to convert to base 32 (To go back type /back) > ag7b25k2cr.aqaqaqaqaqafqra22ml747jnm7
+Conversion result: 7t1vnumq3a.b6cpj
+
+Enter number in base 31 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 31 35
+Enter number in base 31 to convert to base 35 (To go back type /back) > e9n51nifmb.99999999998d6omo3pkj2hoje2
+Conversion result: 4s2d6xuxaq.ahhhh
+
+Enter number in base 31 to convert to base 35 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 2
+Enter number in base 34 to convert to base 2 (To go back type /back) > 6eetwblil3.3dkdkdkdkdl4i7obmvttaegr1s
+Conversion result: 1011000101100011110101010000000011110110100101101.00011
+
+Enter number in base 34 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 5
+Enter number in base 34 to convert to base 5 (To go back type /back) > 83hxqp7cr9.a6r6r6r6r6povijam489d50dua
+Conversion result: 1003443024133034121202.12222
+
+Enter number in base 34 to convert to base 5 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 8
+Enter number in base 34 to convert to base 8 (To go back type /back) > 4o7or9nbdj.wa6r6r6r6r0vo698kgx3ik1lj6
+Conversion result: 10103621001043041.74631
+
+Enter number in base 34 to convert to base 8 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 11
+Enter number in base 34 to convert to base 11 (To go back type /back) > 6jehpbxn1a.sukdkdkdkdhft34la8giqa0rqk
+Conversion result: 10614a8112935a5.93939
+
+Enter number in base 34 to convert to base 11 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 14
+Enter number in base 34 to convert to base 14 (To go back type /back) > 40lsxqc8ir.a6r6r6r6r6povijam489d50dua
+Conversion result: 44385d51d4a51.42b2b
+
+Enter number in base 34 to convert to base 14 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 17
+Enter number in base 34 to convert to base 17 (To go back type /back) > 44n3ppcekb.ukdkdkdkdkgi4utcnphf7nx67d
+Conversion result: 75a8027ee76b.f51bf
+
+Enter number in base 34 to convert to base 17 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 20
+Enter number in base 34 to convert to base 20 (To go back type /back) > 1ff5d6kb6a.wxatv9hn42i0u03ctbtkum1r4
+Conversion result: 8c948d96942.j8000
+
+Enter number in base 34 to convert to base 20 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 23
+Enter number in base 34 to convert to base 23 (To go back type /back) > 1x0ves3u93.ic85ewlpsj06blm8hnr0o40b3s
+Conversion result: 2kab0hm5cg4.c9f43
+
+Enter number in base 34 to convert to base 23 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 26
+Enter number in base 34 to convert to base 26 (To go back type /back) > 1sq7lmrcsv.inr6r6r6r6x29ropdh0ufdwcer
+Conversion result: kgkf47a6jp.e7kkk
+
+Enter number in base 34 to convert to base 26 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 29
+Enter number in base 34 to convert to base 29 (To go back type /back) > 2ddnj9e930.kdkdkdkdkdhft34la8giqa0rqk
+Conversion result: a0h6bjmklo.hbhbh
+
+Enter number in base 34 to convert to base 29 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 32
+Enter number in base 34 to convert to base 32 (To go back type /back) > 4ckjv7h7cq.a6r6r6r6r6povijam489d50dua
+Conversion result: 7hbh6je536.9j6cp
+
+Enter number in base 34 to convert to base 32 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 34 35
+Enter number in base 34 to convert to base 35 (To go back type /back) > l3h8l1egg.7xmewlpsj1ap3u6wulw2dt4e7
+Conversion result: gpprl9neq.87ulu
 
 Enter number in base 34 to convert to base 35 (To go back type /back) > /back
 
